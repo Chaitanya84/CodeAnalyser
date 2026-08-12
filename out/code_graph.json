@@ -1,0 +1,917 @@
+{
+  "diagnostics": {
+    "ambiguous_calls": [],
+    "ambiguous_defines": [],
+    "duplicate_symbols": [
+      "src/engine.cpp::automotive::Engine::ignite::()"
+    ],
+    "files": [
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "include/device.hpp",
+        "has_syntax_error": false,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 88
+      },
+      {
+        "error_nodes": 3,
+        "errors": [
+          {
+            "end_column": 2,
+            "end_line": 8,
+            "node_type": "ERROR",
+            "start_column": 0,
+            "start_line": 2,
+            "type": "ERROR"
+          },
+          {
+            "end_column": 1,
+            "end_line": 4,
+            "node_type": "ERROR",
+            "start_column": 13,
+            "start_line": 2,
+            "type": "ERROR"
+          },
+          {
+            "end_column": 11,
+            "end_line": 3,
+            "node_type": "ERROR",
+            "start_column": 10,
+            "start_line": 3,
+            "type": "ERROR"
+          }
+        ],
+        "file": "src/broken.cpp",
+        "has_syntax_error": true,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 24
+      },
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "src/device.cpp",
+        "has_syntax_error": false,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 121
+      },
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "src/engine.cpp",
+        "has_syntax_error": false,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 137
+      },
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "src/main.cpp",
+        "has_syntax_error": false,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 228
+      },
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "src/util.c",
+        "has_syntax_error": false,
+        "language": "c",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 145
+      },
+      {
+        "error_nodes": 0,
+        "errors": [],
+        "file": "src/util.h",
+        "has_syntax_error": false,
+        "language": "cpp",
+        "missing_nodes": 0,
+        "read_error": null,
+        "total_nodes": 49
+      }
+    ],
+    "unresolved_calls": [
+      {
+        "callee": "unresolvedExternalCall",
+        "caller": "main",
+        "file": "src/main.cpp",
+        "kind": "direct",
+        "line": 38,
+        "status": "no matching function"
+      }
+    ],
+    "unresolved_inheritance": [],
+    "validation_issues": []
+  },
+  "links": [
+    {
+      "source": "include/device.hpp::automotive::Config",
+      "target": "include/device.hpp::automotive::Config::baudRate",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Config",
+      "target": "include/device.hpp::automotive::Config::name",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::Device::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::errorCount",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::start::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::state",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::stop::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "include/device.hpp::automotive::Device::~Device::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "src/device.cpp::automotive::Device::Device::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "src/device.cpp::automotive::Device::start::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "src/device.cpp::automotive::Device::stop::()",
+      "type": "defines"
+    },
+    {
+      "source": "include/device.hpp::automotive::Device",
+      "target": "src/device.cpp::automotive::Device::~Device::()",
+      "type": "defines"
+    },
+    {
+      "source": "src/device.cpp::automotive::Device::~Device::()",
+      "target": "src/device.cpp::automotive::Device::stop::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/engine.cpp::automotive::Engine",
+      "target": "include/device.hpp::automotive::Device",
+      "type": "inherits"
+    },
+    {
+      "source": "src/engine.cpp::automotive::Engine",
+      "target": "src/engine.cpp::automotive::Engine::ignite::()",
+      "type": "defines"
+    },
+    {
+      "source": "src/engine.cpp::automotive::Engine::ignite::()",
+      "target": "src/device.cpp::automotive::Device::start::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/engine.cpp::automotive::Engine::ignite::()",
+      "target": "src/device.cpp::automotive::Device::stop::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/engine.cpp::automotive::TurboEngine",
+      "target": "include/device.hpp::automotive::Config",
+      "type": "inherits"
+    },
+    {
+      "source": "src/engine.cpp::automotive::TurboEngine",
+      "target": "src/engine.cpp::automotive::Engine",
+      "type": "inherits"
+    },
+    {
+      "source": "src/engine.cpp::automotive::helper::()",
+      "target": "src/device.cpp::automotive::Device::stop::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/engine.cpp::automotive::helper::()",
+      "target": "src/engine.cpp::automotive::Engine::ignite::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::Container",
+      "target": "src/main.cpp::Container::add::(T value)",
+      "type": "defines"
+    },
+    {
+      "source": "src/main.cpp::Container",
+      "target": "src/main.cpp::Container::count",
+      "type": "defines"
+    },
+    {
+      "source": "src/main.cpp::X::Y::nested::()",
+      "target": "src/main.cpp::A::B::process::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/device.cpp::automotive::Device::start::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/device.cpp::automotive::Device::stop::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/main.cpp::A::B::process::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/main.cpp::Container::add::(T value)",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/main.cpp::X::Y::nested::()",
+      "type": "calls"
+    },
+    {
+      "source": "src/main.cpp::main::()",
+      "target": "src/main.cpp::processValue::(T value)",
+      "type": "calls"
+    },
+    {
+      "source": "src/util.c::compute::(int raw)",
+      "target": "src/util.c::clamp::(int value, int lo, int hi)",
+      "type": "calls"
+    },
+    {
+      "source": "src/util.c::compute::(int raw)",
+      "target": "src/util.c::factorial::(int n)",
+      "type": "calls"
+    },
+    {
+      "source": "src/util.c::factorial::(int n)",
+      "target": "src/util.c::factorial::(int n)",
+      "type": "calls"
+    }
+  ],
+  "metadata": {
+    "generator": "code_graph_analyzer",
+    "schema_version": "1.0",
+    "source_root": "/home/cp/CodeParser/sample_src"
+  },
+  "nodes": [
+    {
+      "column": 0,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Config",
+      "is_definition": true,
+      "kind": "struct",
+      "line": 17,
+      "metadata": {
+        "kind": "struct"
+      },
+      "name": "Config",
+      "qualified_name": "automotive::Config",
+      "scope": "automotive",
+      "signature": null,
+      "type": "class"
+    },
+    {
+      "column": 8,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Config::baudRate",
+      "is_definition": true,
+      "kind": "field",
+      "line": 18,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "baudRate",
+      "qualified_name": "automotive::Config::baudRate",
+      "scope": "automotive::Config",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 16,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Config::name",
+      "is_definition": true,
+      "kind": "field",
+      "line": 19,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "name",
+      "qualified_name": "automotive::Config::name",
+      "scope": "automotive::Config",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 0,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device",
+      "is_definition": true,
+      "kind": "class",
+      "line": 6,
+      "metadata": {
+        "kind": "class"
+      },
+      "name": "Device",
+      "qualified_name": "automotive::Device",
+      "scope": "automotive",
+      "signature": null,
+      "type": "class"
+    },
+    {
+      "column": 4,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::Device::()",
+      "is_definition": false,
+      "kind": "method",
+      "line": 8,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "Device",
+      "qualified_name": "automotive::Device::Device",
+      "scope": "automotive::Device",
+      "signature": "Device()",
+      "type": "function"
+    },
+    {
+      "column": 8,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::errorCount",
+      "is_definition": true,
+      "kind": "field",
+      "line": 14,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "errorCount",
+      "qualified_name": "automotive::Device::errorCount",
+      "scope": "automotive::Device",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 9,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::start::()",
+      "is_definition": false,
+      "kind": "method",
+      "line": 10,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "start",
+      "qualified_name": "automotive::Device::start",
+      "scope": "automotive::Device",
+      "signature": "start()",
+      "type": "function"
+    },
+    {
+      "column": 8,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::state",
+      "is_definition": true,
+      "kind": "field",
+      "line": 12,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "state",
+      "qualified_name": "automotive::Device::state",
+      "scope": "automotive::Device",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 9,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::stop::()",
+      "is_definition": false,
+      "kind": "method",
+      "line": 11,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "stop",
+      "qualified_name": "automotive::Device::stop",
+      "scope": "automotive::Device",
+      "signature": "stop()",
+      "type": "function"
+    },
+    {
+      "column": 12,
+      "file": "include/device.hpp",
+      "id": "include/device.hpp::automotive::Device::~Device::()",
+      "is_definition": false,
+      "kind": "method",
+      "line": 9,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "~Device",
+      "qualified_name": "automotive::Device::~Device",
+      "scope": "automotive::Device",
+      "signature": "~Device()",
+      "type": "function"
+    },
+    {
+      "column": 8,
+      "file": "src/broken.cpp",
+      "id": "src/broken.cpp::x",
+      "is_definition": true,
+      "kind": "variable",
+      "line": 3,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "x",
+      "qualified_name": "x",
+      "scope": null,
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 0,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::Device::Device::()",
+      "is_definition": true,
+      "kind": "constructor",
+      "line": 8,
+      "metadata": {
+        "class_qualifier": "Device",
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "Device",
+      "qualified_name": "automotive::Device::Device",
+      "scope": "automotive::Device",
+      "signature": "Device()",
+      "type": "function"
+    },
+    {
+      "column": 5,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::Device::start::()",
+      "is_definition": true,
+      "kind": "method",
+      "line": 16,
+      "metadata": {
+        "class_qualifier": "Device",
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "start",
+      "qualified_name": "automotive::Device::start",
+      "scope": "automotive::Device",
+      "signature": "start()",
+      "type": "function"
+    },
+    {
+      "column": 5,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::Device::stop::()",
+      "is_definition": true,
+      "kind": "method",
+      "line": 21,
+      "metadata": {
+        "class_qualifier": "Device",
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "stop",
+      "qualified_name": "automotive::Device::stop",
+      "scope": "automotive::Device",
+      "signature": "stop()",
+      "type": "function"
+    },
+    {
+      "column": 0,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::Device::~Device::()",
+      "is_definition": true,
+      "kind": "destructor",
+      "line": 12,
+      "metadata": {
+        "class_qualifier": "Device",
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "~Device",
+      "qualified_name": "automotive::Device::~Device",
+      "scope": "automotive::Device",
+      "signature": "~Device()",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::globalCounter",
+      "is_definition": true,
+      "kind": "variable",
+      "line": 5,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "globalCounter",
+      "qualified_name": "automotive::globalCounter",
+      "scope": "automotive",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 11,
+      "file": "src/device.cpp",
+      "id": "src/device.cpp::automotive::internalState",
+      "is_definition": true,
+      "kind": "variable",
+      "line": 6,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "internalState",
+      "qualified_name": "automotive::internalState",
+      "scope": "automotive",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 0,
+      "file": "src/engine.cpp",
+      "id": "src/engine.cpp::automotive::Engine",
+      "is_definition": true,
+      "kind": "class",
+      "line": 5,
+      "metadata": {
+        "kind": "class"
+      },
+      "name": "Engine",
+      "qualified_name": "automotive::Engine",
+      "scope": "automotive",
+      "signature": null,
+      "type": "class"
+    },
+    {
+      "column": 5,
+      "file": "src/engine.cpp",
+      "id": "src/engine.cpp::automotive::Engine::ignite::()",
+      "is_definition": true,
+      "kind": "method",
+      "line": 13,
+      "metadata": {
+        "class_qualifier": "Engine",
+        "is_method": true,
+        "parameters": "()"
+      },
+      "name": "ignite",
+      "qualified_name": "automotive::Engine::ignite",
+      "scope": "automotive::Engine",
+      "signature": "ignite()",
+      "type": "function"
+    },
+    {
+      "column": 0,
+      "file": "src/engine.cpp",
+      "id": "src/engine.cpp::automotive::TurboEngine",
+      "is_definition": true,
+      "kind": "class",
+      "line": 10,
+      "metadata": {
+        "kind": "class"
+      },
+      "name": "TurboEngine",
+      "qualified_name": "automotive::TurboEngine",
+      "scope": "automotive",
+      "signature": null,
+      "type": "class"
+    },
+    {
+      "column": 5,
+      "file": "src/engine.cpp",
+      "id": "src/engine.cpp::automotive::helper::()",
+      "is_definition": true,
+      "kind": "function",
+      "line": 18,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "()"
+      },
+      "name": "helper",
+      "qualified_name": "automotive::helper",
+      "scope": "automotive",
+      "signature": "helper()",
+      "type": "function"
+    },
+    {
+      "column": 5,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::A::B::process::()",
+      "is_definition": true,
+      "kind": "function",
+      "line": 5,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "()"
+      },
+      "name": "process",
+      "qualified_name": "A::B::process",
+      "scope": "A::B",
+      "signature": "process()",
+      "type": "function"
+    },
+    {
+      "column": 0,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::Container",
+      "is_definition": true,
+      "kind": "class",
+      "line": 17,
+      "metadata": {
+        "kind": "class"
+      },
+      "name": "Container",
+      "qualified_name": "Container",
+      "scope": null,
+      "signature": null,
+      "type": "class"
+    },
+    {
+      "column": 9,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::Container::add::(T value)",
+      "is_definition": true,
+      "kind": "method",
+      "line": 19,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": true,
+        "parameters": "(T value)"
+      },
+      "name": "add",
+      "qualified_name": "Container::add",
+      "scope": "Container",
+      "signature": "add(T value)",
+      "type": "function"
+    },
+    {
+      "column": 8,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::Container::count",
+      "is_definition": true,
+      "kind": "field",
+      "line": 22,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "count",
+      "qualified_name": "Container::count",
+      "scope": "Container",
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 5,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::X::Y::nested::()",
+      "is_definition": true,
+      "kind": "function",
+      "line": 11,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "()"
+      },
+      "name": "nested",
+      "qualified_name": "X::Y::nested",
+      "scope": "X::Y",
+      "signature": "nested()",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::main::()",
+      "is_definition": true,
+      "kind": "function",
+      "line": 29,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "()"
+      },
+      "name": "main",
+      "qualified_name": "main",
+      "scope": null,
+      "signature": "main()",
+      "type": "function"
+    },
+    {
+      "column": 5,
+      "file": "src/main.cpp",
+      "id": "src/main.cpp::processValue::(T value)",
+      "is_definition": true,
+      "kind": "function",
+      "line": 26,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(T value)"
+      },
+      "name": "processValue",
+      "qualified_name": "processValue",
+      "scope": null,
+      "signature": "processValue(T value)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.c",
+      "id": "src/util.c::cGlobalCounter",
+      "is_definition": true,
+      "kind": "variable",
+      "line": 19,
+      "metadata": {
+        "type_name": null
+      },
+      "name": "cGlobalCounter",
+      "qualified_name": "cGlobalCounter",
+      "scope": null,
+      "signature": null,
+      "type": "variable"
+    },
+    {
+      "column": 4,
+      "file": "src/util.c",
+      "id": "src/util.c::clamp::(int value, int lo, int hi)",
+      "is_definition": true,
+      "kind": "function",
+      "line": 3,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int value, int lo, int hi)"
+      },
+      "name": "clamp",
+      "qualified_name": "clamp",
+      "scope": null,
+      "signature": "clamp(int value, int lo, int hi)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.c",
+      "id": "src/util.c::compute::(int raw)",
+      "is_definition": true,
+      "kind": "function",
+      "line": 14,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int raw)"
+      },
+      "name": "compute",
+      "qualified_name": "compute",
+      "scope": null,
+      "signature": "compute(int raw)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.c",
+      "id": "src/util.c::factorial::(int n)",
+      "is_definition": true,
+      "kind": "function",
+      "line": 9,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int n)"
+      },
+      "name": "factorial",
+      "qualified_name": "factorial",
+      "scope": null,
+      "signature": "factorial(int n)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.h",
+      "id": "src/util.h::clamp::(int value, int lo, int hi)",
+      "is_definition": false,
+      "kind": "function",
+      "line": 4,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int value, int lo, int hi)"
+      },
+      "name": "clamp",
+      "qualified_name": "clamp",
+      "scope": null,
+      "signature": "clamp(int value, int lo, int hi)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.h",
+      "id": "src/util.h::compute::(int raw)",
+      "is_definition": false,
+      "kind": "function",
+      "line": 6,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int raw)"
+      },
+      "name": "compute",
+      "qualified_name": "compute",
+      "scope": null,
+      "signature": "compute(int raw)",
+      "type": "function"
+    },
+    {
+      "column": 4,
+      "file": "src/util.h",
+      "id": "src/util.h::factorial::(int n)",
+      "is_definition": false,
+      "kind": "function",
+      "line": 5,
+      "metadata": {
+        "class_qualifier": null,
+        "is_method": false,
+        "parameters": "(int n)"
+      },
+      "name": "factorial",
+      "qualified_name": "factorial",
+      "scope": null,
+      "signature": "factorial(int n)",
+      "type": "function"
+    }
+  ],
+  "statistics": {
+    "ambiguous_calls": 0,
+    "ast_nodes": 792,
+    "calls": 15,
+    "classes": 4,
+    "defines": 15,
+    "duplicate_symbols": 1,
+    "files_parsed": 7,
+    "files_scanned": 7,
+    "files_unreadable": 0,
+    "files_with_syntax_errors": 1,
+    "function_declarations": 7,
+    "functions": 14,
+    "inherits": 3,
+    "links": 33,
+    "nodes": 35,
+    "resolved_relationships": 33,
+    "structs": 1,
+    "unresolved_calls": 1,
+    "unresolved_inheritance": 0,
+    "validation_issues": 0,
+    "variables": 9
+  }
+}

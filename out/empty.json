@@ -1,0 +1,41 @@
+{
+  "diagnostics": {
+    "ambiguous_calls": [],
+    "ambiguous_defines": [],
+    "duplicate_symbols": [],
+    "files": [],
+    "unresolved_calls": [],
+    "unresolved_inheritance": [],
+    "validation_issues": []
+  },
+  "links": [],
+  "metadata": {
+    "generator": "code_graph_analyzer",
+    "schema_version": "1.0",
+    "source_root": "/home/cp/CodeParser/empty_src"
+  },
+  "nodes": [],
+  "statistics": {
+    "ambiguous_calls": 0,
+    "ast_nodes": 0,
+    "calls": 0,
+    "classes": 0,
+    "defines": 0,
+    "duplicate_symbols": 0,
+    "files_parsed": 0,
+    "files_scanned": 0,
+    "files_unreadable": 0,
+    "files_with_syntax_errors": 0,
+    "function_declarations": 0,
+    "functions": 0,
+    "inherits": 0,
+    "links": 0,
+    "nodes": 0,
+    "resolved_relationships": 0,
+    "structs": 0,
+    "unresolved_calls": 0,
+    "unresolved_inheritance": 0,
+    "validation_issues": 0,
+    "variables": 0
+  }
+}
