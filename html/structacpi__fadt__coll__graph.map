@@ -1,0 +1,7 @@
+<map id="acpi_fadt" name="acpi_fadt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,211,213,236"/>
+<area shape="rect" id="Node000002" href="$structacpi__description__header.html" title=" " alt="" coords="5,5,185,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,43,170,210,165,212,102,45"/>
+<area shape="rect" id="Node000003" href="$structacpi__gas.html" title=" " alt="" coords="209,5,288,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,45,221,110,191,188,180,212,175,209,186,186,216,108,238,43"/>
+</map>

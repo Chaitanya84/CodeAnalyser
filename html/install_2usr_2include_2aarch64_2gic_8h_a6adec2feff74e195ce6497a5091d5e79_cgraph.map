@@ -1,0 +1,9 @@
+<map id="gic_v3_lpi_add_entry" name="gic_v3_lpi_add_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,164,80"/>
+<area shape="rect" id="Node000002" href="$gic__v3_8c.html#a2b5085a786ca17cf99b5d0e3451a7311" title=" " alt="" coords="212,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,52,219,31,220,37,138,57"/>
+<area shape="rect" id="Node000003" href="$gic__v3_8c.html#ae06815a109e02d9eeb39b483a31fca1b" title=" " alt="" coords="220,55,351,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,65,206,65,206,70,164,70"/>
+<area shape="rect" id="Node000004" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="253,104,318,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,77,240,103,239,108,136,83"/>
+</map>

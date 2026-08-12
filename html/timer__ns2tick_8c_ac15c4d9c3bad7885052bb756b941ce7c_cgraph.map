@@ -1,0 +1,7 @@
+<map id="timer_ns2tick" name="timer_ns2tick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,116,56"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="187,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,32,172,23,173,28,117,37"/>
+<area shape="rect" id="Node000003" href="$timer__tick2ns_8c.html#ac9cafbf163f14cc57915857ead40dd14" title=" " alt="" coords="164,55,275,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,49,151,54,150,60,116,54"/>
+</map>

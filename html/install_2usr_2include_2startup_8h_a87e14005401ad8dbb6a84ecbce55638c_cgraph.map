@@ -1,0 +1,15 @@
+<map id="fdt_init_bootopt" name="fdt_init_bootopt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,131,105"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="233,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,77,178,40,219,26,221,31,180,44,95,82"/>
+<area shape="rect" id="Node000004" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="229,55,295,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,82,216,71,216,76,131,87"/>
+<area shape="rect" id="Node000005" href="$map__startup__mem_8c.html#a5300733bbd453eb14f9a046bf7b99d7e" title=" " alt="" coords="179,104,345,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="131,98,165,102,165,107,131,103"/>
+<area shape="rect" id="Node000006" href="$strtoul_8c.html#a6d257fc3f00865d0556ed7327c312b55" title=" " alt="" coords="230,153,294,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="97,103,180,138,218,151,216,156,178,143,95,108"/>
+<area shape="rect" id="Node000003" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="393,5,489,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,15,380,15,380,21,291,21"/>
+<area shape="rect" id="Node000007" href="$strtoul_8c.html#adb8fe55e3f2efdf6cd7f18112e6af702" title=" " alt="" coords="397,153,486,179"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,163,383,163,383,169,294,169"/>
+</map>

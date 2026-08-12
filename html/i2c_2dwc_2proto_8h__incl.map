@@ -1,0 +1,27 @@
+<map id="src/hardware/i2c/dwc/proto.h" name="src/hardware/i2c/dwc/proto.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,5,627,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,72,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,38,293,62,86,96,85,96,84,91,85,91,292,56,468,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,93,167,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="469,42,181,96,180,91,468,37"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="191,93,259,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="471,48,273,96,272,91,469,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="283,93,354,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="494,48,366,91,364,86,492,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="378,93,481,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="521,48,460,88,457,84,518,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="505,93,591,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="551,46,551,79,545,79,545,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="616,93,741,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="581,43,649,84,646,88,578,48"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="766,93,829,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="609,43,754,88,752,93,607,48"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="853,93,929,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="628,42,840,90,839,95,627,47"/>
+<area shape="rect" id="Node000011" href="$dwc__i2c_8h.html" title=" " alt="" coords="953,93,1039,119"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="628,37,940,90,939,96,627,42"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1063,93,1163,119"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="628,33,817,57,1050,90,1050,96,816,62,627,39"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="956,167,1036,192"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="999,119,999,153,993,153,993,119"/>
+</map>

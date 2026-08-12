@@ -1,0 +1,11 @@
+<map id="src/hardware/devb/sdmmc/aarch64/bcm2712.le/sim_bs.h" name="src/hardware/devb/sdmmc/aarch64/bcm2712.le/sim_bs.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="235,5,455,45"/>
+<area shape="rect" id="Node000002" href="$sim__sdmmc_8h.html" title=" " alt="" coords="248,93,443,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,59,348,93,343,93,343,59"/>
+<area shape="rect" id="Node000003" href="$sim__bs_8c.html" title=" " alt="" coords="5,181,224,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,141,166,184,164,179,281,136"/>
+<area shape="rect" id="Node000004" href="$sim__assd_8c.html" title=" " alt="" coords="248,181,443,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="348,147,348,181,343,181,343,147"/>
+<area shape="rect" id="Node000005" href="$sim__sdmmc_8c.html" title=" " alt="" coords="467,181,661,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,136,517,179,515,184,405,141"/>
+</map>

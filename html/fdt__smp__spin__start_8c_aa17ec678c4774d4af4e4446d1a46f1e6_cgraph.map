@@ -1,0 +1,9 @@
+<map id="fdt_smp_spin_start" name="fdt_smp_spin_start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,152,56"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="228,5,285,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,30,214,21,215,27,153,36"/>
+<area shape="rect" id="Node000004" href="$install_2usr_2include_2startup_8h.html#a34f0f34a7ecf65abb84df8d2c14d6321" title=" " alt="" coords="200,55,313,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,51,187,55,186,61,152,56"/>
+<area shape="rect" id="Node000003" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="361,5,457,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,15,347,15,347,21,286,21"/>
+</map>

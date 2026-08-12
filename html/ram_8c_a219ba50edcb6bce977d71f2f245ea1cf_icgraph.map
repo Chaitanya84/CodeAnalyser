@@ -1,0 +1,11 @@
+<map id="find_top_ram_aligned_limit" name="find_top_ram_aligned_limit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="517,23,680,63"/>
+<area shape="rect" id="Node000002" href="$ram_8c.html#a6a0099c39ebbcd450ce7642f55fae2ca" title=" " alt="" coords="307,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,35,469,30,470,25,504,29"/>
+<area shape="rect" id="Node000003" href="$init__mitigation__mem_8c.html#a73278262ba761a7a8b8bbf875d15b9b9" title=" " alt="" coords="309,55,467,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="504,57,468,61,467,56,503,52"/>
+<area shape="rect" id="Node000004" href="$init__system__private_8c.html#a27686aa00795da8cd3259a73be9cbbe7" title=" " alt="" coords="108,55,259,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,70,259,70,259,65,295,65"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,70,60,70,60,65,94,65"/>
+</map>

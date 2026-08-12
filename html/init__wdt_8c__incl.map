@@ -1,0 +1,7 @@
+<map id="src/hardware/startup/boards/bcm/bcm2712/init_wdt.c" name="src/hardware/startup/boards/bcm/bcm2712/init_wdt.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,239,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,93,94,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,47,75,84,71,81,104,44"/>
+<area shape="rect" id="Node000003" href="$bcm2712__startup_8h.html" title=" " alt="" coords="118,93,265,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,44,174,81,170,84,137,47"/>
+</map>

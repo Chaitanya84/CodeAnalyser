@@ -1,0 +1,9 @@
+<map id="sdio_pwroff_notify" name="sdio_pwroff_notify">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,147,56"/>
+<area shape="rect" id="Node000002" href="$mmc_8c.html#a65200c7e3243f35647c694d56713c5aa" title=" " alt="" coords="195,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,31,180,27,181,32,147,37"/>
+<area shape="rect" id="Node000004" href="$sd_8c.html#a12dc0ee7260ee6c3ca74d2fddfabd67b" title=" " alt="" coords="203,55,333,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,49,190,55,189,60,146,55"/>
+<area shape="rect" id="Node000003" href="$mmc_8c.html#a94f0e0747d03ff5861d1627a79d1601d" title=" " alt="" coords="389,5,493,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,15,376,15,376,21,342,21"/>
+</map>

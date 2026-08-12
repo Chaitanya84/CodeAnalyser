@@ -1,0 +1,11 @@
+<map id="board_smp_num_cpu" name="board_smp_num_cpu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,55,495,80"/>
+<area shape="rect" id="Node000002" href="$gic__v3_8c.html#afc88d38114aaf672b566e5e22e02eaae" title=" " alt="" coords="134,5,261,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,54,254,33,255,28,346,49"/>
+<area shape="rect" id="Node000003" href="$gic__v3_8c.html#a1cde8358b30335f732fcae8067502a41" title=" " alt="" coords="108,55,287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="321,70,287,70,287,65,321,65"/>
+<area shape="rect" id="Node000004" href="$init__smp_8c.html#a4f2dcf7c07427296a0a530d2e0f94fa8" title=" " alt="" coords="158,104,237,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,86,237,110,236,105,344,81"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,104,60,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="144,119,60,119,60,114,144,114"/>
+</map>

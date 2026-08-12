@@ -1,0 +1,7 @@
+<map id="pci_write_cfg8" name="pci_write_cfg8">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,121,56"/>
+<area shape="rect" id="Node000002" href="$install_2usr_2include_2startup_8h.html#a966fbf0ac8470fde1d5a8f9e3ea9258f" title=" " alt="" coords="171,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,32,157,26,158,32,122,37"/>
+<area shape="rect" id="Node000003" href="$install_2usr_2include_2startup_8h.html#af10ba505cc91e0f847c84af41c8e884d" title=" " alt="" coords="169,55,293,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,49,156,54,155,59,121,54"/>
+</map>

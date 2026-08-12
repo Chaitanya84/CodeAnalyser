@@ -1,0 +1,7 @@
+<map id="arm_gic_its_params_t" name="arm_gic_its_params_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,93,236,119"/>
+<area shape="rect" id="Node000002" href="$structgic__tbl__params__t.html" title=" " alt="" coords="5,5,139,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,39,144,91,140,95,90,43"/>
+<area shape="rect" id="Node000003" href="$structarm__gic__its__lock__t.html" title=" " alt="" coords="163,5,306,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,43,167,95,163,91,212,39"/>
+</map>

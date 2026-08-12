@@ -1,0 +1,11 @@
+<map id="hwitag_add_nicphyaddr" name="hwitag_add_nicphyaddr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="453,31,629,56"/>
+<area shape="rect" id="Node000002" href="$hwi__add__nicphyaddr_8c.html#a0e49d88fd1f7b9247dbd8fa63455c27f" title=" " alt="" coords="251,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,34,406,30,406,25,440,29"/>
+<area shape="rect" id="Node000003" href="$hwidev__add__enet_8c.html#a8251b897be832d0ed2d3b39589b89450" title=" " alt="" coords="260,55,396,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="440,57,396,62,396,57,439,52"/>
+<area shape="rect" id="Node000004" href="$lib_2aarch64_2init__hwinfo_8c.html#a889ff8fd323911db50ada9e72347a0f8" title=" " alt="" coords="108,55,203,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,70,203,70,203,65,246,65"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,70,60,70,60,65,95,65"/>
+</map>

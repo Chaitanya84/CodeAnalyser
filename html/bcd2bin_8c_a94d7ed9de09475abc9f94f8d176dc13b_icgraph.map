@@ -1,0 +1,17 @@
+<map id="bcd2bin" name="bcd2bin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,153,277,179"/>
+<area shape="rect" id="Node000002" href="$hw__rtc__ds1386_8c.html#af1f7dce7d89c701d440d296dcca3a8c6" title=" " alt="" coords="15,5,146,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,142,198,92,178,66,154,44,135,33,137,28,158,40,182,63,203,89,231,139"/>
+<area shape="rect" id="Node000003" href="$hw__rtc__ds15x1_8c.html#a130ff39fe66c305711327f637d23c4bd" title=" " alt="" coords="15,55,146,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,145,189,118,155,94,130,82,132,78,157,89,192,114,221,141"/>
+<area shape="rect" id="Node000004" href="$hw__rtc__ds1743_8c.html#ad1f5715984a49b9db56ff215297e61ab" title=" " alt="" coords="15,104,146,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,153,122,132,123,127,191,148"/>
+<area shape="rect" id="Node000005" href="$hw__rtc__m48t37_8c.html#aedbb0dff6a90438fc32c3f6777197fca" title=" " alt="" coords="14,153,147,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="190,169,148,169,148,163,190,163"/>
+<area shape="rect" id="Node000006" href="$hw__rtc__m48t5x_8c.html#a55289b97724fe6f4ee03da6a84fe5f0b" title=" " alt="" coords="14,203,147,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="191,184,123,205,122,200,190,179"/>
+<area shape="rect" id="Node000007" href="$hw__rtc__mc146818_8c.html#a93616a3dc892bf55031b14a37f8306bc" title=" " alt="" coords="5,252,156,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="220,191,192,217,157,242,129,254,127,250,155,237,188,213,216,187"/>
+<area shape="rect" id="Node000008" href="$hw__rtc__rtc72423_8c.html#a6d1e92666efec5acb8833b6df00dc3cb" title=" " alt="" coords="11,301,151,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="231,193,202,242,182,268,158,291,135,304,132,299,154,287,178,265,198,239,226,190"/>
+</map>

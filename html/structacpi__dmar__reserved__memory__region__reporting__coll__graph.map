@@ -1,0 +1,7 @@
+<map id="acpi_dmar_reserved_memory_region_reporting" name="acpi_dmar_reserved_memory_region_reporting">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,93,269,133"/>
+<area shape="rect" id="Node000002" href="$structacpi__dmar__header.html" title=" " alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,38,153,91,149,95,96,42"/>
+<area shape="rect" id="Node000003" href="$structacpi__dmar__device__scope.html" title=" " alt="" coords="172,5,357,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,42,191,95,187,91,242,38"/>
+</map>

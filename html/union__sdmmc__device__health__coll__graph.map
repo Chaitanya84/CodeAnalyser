@@ -1,0 +1,15 @@
+<map id="_sdmmc_device_health" name="_sdmmc_device_health">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,129,505,155"/>
+<area shape="rect" id="Node000002" href="$struct__sandisk__health.html" title=" " alt="" coords="29,5,156,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,25,238,40,308,64,362,95,404,127,400,131,359,100,306,68,237,45,170,31"/>
+<area shape="rect" id="Node000003" href="$struct__sandisk__emmc__health.html" title=" " alt="" coords="5,55,180,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,80,307,103,383,127,381,132,306,109,192,85"/>
+<area shape="rect" id="Node000004" href="$struct__samsung__health.html" title=" " alt="" coords="25,104,161,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,120,330,133,330,138,174,126"/>
+<area shape="rect" id="Node000005" href="$struct__toshiba__health.html" title=" " alt="" coords="30,153,155,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,164,306,158,351,152,351,157,307,163,169,169"/>
+<area shape="rect" id="Node000006" href="$struct__toshiba__emmc__health.html" title=" " alt="" coords="6,203,179,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,205,249,197,306,185,351,169,390,152,392,157,353,174,307,190,250,202,193,210"/>
+<area shape="rect" id="Node000007" href="$struct__micron__health.html" title=" " alt="" coords="31,252,154,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="167,257,236,246,306,224,334,208,361,189,402,153,406,157,364,193,337,212,308,228,237,251,168,262"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="acpi_dmar" name="acpi_dmar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1011,177,1101,202"/>
+<area shape="rect" id="Node000002" href="$structacpi__description__header.html" title=" " alt="" coords="631,153,811,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="824,170,1011,183,1010,189,824,175"/>
+<area shape="rect" id="Node000003" href="$unionacpi__dmar__generic.html" title=" " alt="" coords="648,202,793,227"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="807,213,894,211,986,203,1010,198,1011,204,987,208,894,216,807,219"/>
+<area shape="rect" id="Node000004" href="$structacpi__dmar__header.html" title=" " alt="" coords="27,230,169,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,260,216,303,303,345,340,360,376,371,412,377,450,376,492,369,540,355,594,328,642,292,681,255,707,226,711,229,685,258,646,296,597,332,542,360,493,374,451,381,412,382,375,376,339,365,301,350,213,308,132,265"/>
+<area shape="rect" id="Node000005" href="$structacpi__dmar__dma__remapping__hardware__unit__definition.html" title=" " alt="" coords="337,163,539,203"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="183,234,310,216,374,200,375,205,311,221,184,239"/>
+<area shape="rect" id="Node000007" href="$structacpi__dmar__reserved__memory__region__reporting.html" title=" " alt="" coords="339,35,537,75"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="112,217,153,163,181,135,213,111,355,72,357,77,216,116,185,139,157,167,116,220"/>
+<area shape="rect" id="Node000008" href="$structacpi__dmar__root__port__ats__capability__reporting.html" title=" " alt="" coords="345,99,531,139"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="149,223,214,201,263,189,284,183,309,171,321,160,333,148,358,136,360,141,336,153,324,164,312,176,286,188,265,195,215,207,150,228"/>
+<area shape="rect" id="Node000009" href="$structacpi__dmar__remapping__hardware__static__affinity.html" title=" " alt="" coords="345,291,531,331"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="142,258,215,283,281,295,345,303,344,308,280,300,214,288,140,263"/>
+<area shape="rect" id="Node000010" href="$structacpi__dmar__acpi__namespace__device__declaration.html" title=" " alt="" coords="335,227,541,267"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="170,255,215,261,263,264,310,261,334,259,335,265,311,267,263,269,214,267,169,260"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="554,193,648,204,648,209,553,198"/>
+<area shape="rect" id="Node000006" href="$structacpi__dmar__device__scope.html" title=" " alt="" coords="5,26,191,51"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="124,59,165,94,216,126,267,143,339,160,338,165,266,148,214,130,162,98,120,63"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="194,22,214,20,263,17,311,20,371,32,370,37,310,25,263,22,215,25,194,27"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="205,40,259,49,312,66,324,75,336,84,363,96,361,101,333,89,321,79,309,70,258,54,204,45"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="529,78,543,84,579,108,609,140,617,154,620,166,624,177,632,187,653,200,651,204,629,191,619,179,615,167,612,156,605,143,576,112,540,89,527,82"/>
+<area shape="poly" id="edge10_Node000003_Node000008" title=" " alt="" coords="521,141,542,148,608,176,632,187,671,199,669,204,630,192,606,181,540,153,519,146"/>
+<area shape="poly" id="edge13_Node000003_Node000009" title=" " alt="" coords="517,284,540,276,684,225,686,230,542,281,519,289"/>
+<area shape="poly" id="edge15_Node000003_Node000010" title=" " alt="" coords="555,231,648,220,648,225,555,236"/>
+</map>

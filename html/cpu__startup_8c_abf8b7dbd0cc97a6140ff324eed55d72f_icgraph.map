@@ -1,0 +1,13 @@
+<map id="aarch64_cpuid_find" name="aarch64_cpuid_find">
+<area shape="rect" id="Node000001" title=" " alt="" coords="432,31,579,56"/>
+<area shape="rect" id="Node000002" href="$cpu__startup_8c.html#a3c9ef458f88073bc9f9246409d5ae60b" title=" " alt="" coords="270,5,369,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,34,369,27,369,22,418,29"/>
+<area shape="rect" id="Node000004" href="$init__cpuinfo_8c.html#a9923d932c316dd144e2c454dc8741f25" title=" " alt="" coords="255,55,384,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="419,57,385,62,384,56,418,52"/>
+<area shape="rect" id="Node000003" href="$__main_8c.html#abaa8f446abb569a6f850a328569bec9f" title=" " alt="" coords="126,5,189,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,21,189,21,189,15,256,15"/>
+<area shape="rect" id="Node000005" href="$init__cpuinfo_8c.html#a9fb327c46feb2fea8247cfe155df0c36" title=" " alt="" coords="108,55,207,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,70,207,70,207,65,241,65"/>
+<area shape="rect" id="Node000006" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,70,60,70,60,65,94,65"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="smbios_structure_t" name="smbios_structure_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,181,369,207"/>
+<area shape="rect" id="Node000002" href="$structsmbios__header__t.html" title=" " alt="" coords="229,5,362,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,34,367,49,392,69,406,92,408,106,404,120,390,142,371,160,329,184,326,179,368,155,386,138,400,118,403,105,401,94,388,72,364,53,337,39"/>
+<area shape="rect" id="Node000003" href="$structsmbios__table__type__4__t.html" title=" " alt="" coords="5,93,177,119"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="257,39,178,72,120,96,118,91,176,67,255,34"/>
+<area shape="rect" id="Node000005" href="$structsmbios__table__type__127__t.html" title=" " alt="" coords="201,93,389,119"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="298,45,298,93,293,93,293,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,122,269,179,267,184,131,127"/>
+<area shape="rect" id="Node000004" href="$structprocessor__id__data__t.html" title=" " alt="" coords="15,5,167,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="94,45,94,93,89,93,89,45"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="298,133,298,181,293,181,293,133"/>
+</map>

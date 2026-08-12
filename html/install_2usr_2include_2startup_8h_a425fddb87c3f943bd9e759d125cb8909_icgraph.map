@@ -1,0 +1,31 @@
+<map id="set_syspage_section" name="set_syspage_section">
+<area shape="rect" id="Node000001" title=" " alt="" coords="713,153,871,179"/>
+<area shape="rect" id="Node000002" href="$alloc__qtime_8c.html#ac133be6d7b59f2e98f39b54f41c0b65e" title=" " alt="" coords="518,5,617,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,144,726,93,697,67,664,44,641,34,616,27,618,22,642,29,667,40,700,62,730,89,775,141"/>
+<area shape="rect" id="Node000006" href="$cpu__syspage__memory_8c.html#a05390da1001eaea472d4c5ad9c4bc92a" title=" " alt="" coords="469,55,665,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="760,148,716,121,664,95,627,83,629,78,666,90,718,116,763,143"/>
+<area shape="rect" id="Node000009" href="$gic__v3_8c.html#afc88d38114aaf672b566e5e22e02eaae" title=" " alt="" coords="504,104,631,129"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="720,153,625,132,627,127,721,148"/>
+<area shape="rect" id="Node000010" href="$hypervisor__setup_8c.html#a5112cc3b3f5e248ab133b48464d90f96" title=" " alt="" coords="477,153,657,179"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="699,169,658,169,658,163,699,163"/>
+<area shape="rect" id="Node000011" href="$init__system__private_8c.html#a27686aa00795da8cd3259a73be9cbbe7" title=" " alt="" coords="263,204,413,229"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="723,184,666,194,532,208,414,216,413,211,532,203,665,189,722,179"/>
+<area shape="rect" id="Node000012" href="$init__cpuinfo_8c.html#a9fb327c46feb2fea8247cfe155df0c36" title=" " alt="" coords="108,255,207,280"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="753,187,712,204,666,218,537,243,409,258,294,266,207,269,207,264,294,261,408,253,537,238,665,213,710,199,751,182"/>
+<area shape="rect" id="Node000013" href="$init__smp_8c.html#a4f2dcf7c07427296a0a530d2e0f94fa8" title=" " alt="" coords="299,305,377,331"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="776,192,731,242,700,268,667,288,629,303,589,314,509,325,436,327,377,325,378,319,436,322,509,320,588,308,627,298,664,284,697,264,727,239,772,188"/>
+<area shape="rect" id="Node000003" href="$init__qtime__v8gt_8c.html#aedecb9af9506a2c2872766221307c1b1" title=" " alt="" coords="276,5,400,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,21,400,21,400,15,505,15"/>
+<area shape="rect" id="Node000004" href="$init__qtime_8c.html#a3f35a90d7592736580a712a35e674220" title=" " alt="" coords="113,5,201,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,21,202,21,202,15,263,15"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,229,60,255"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="113,41,110,44,93,66,78,92,57,145,44,194,38,230,33,229,39,193,52,143,73,89,88,64,106,40,109,37"/>
+<area shape="rect" id="Node000007" href="$syspage__memory_8c.html#a3810a54e4ad3fff3b9336f8201dde27a" title=" " alt="" coords="255,55,421,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="456,70,422,70,422,65,456,65"/>
+<area shape="rect" id="Node000008" href="$__main_8c.html#abaa8f446abb569a6f850a328569bec9f" title=" " alt="" coords="126,55,189,80"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="241,70,189,70,189,65,241,65"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="496,184,397,207,396,201,495,179"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="249,227,60,242,60,237,249,221"/>
+<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="94,257,60,250,61,245,95,252"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="284,322,200,317,153,308,107,295,73,277,46,257,50,253,76,273,109,290,154,303,201,311,285,317"/>
+</map>

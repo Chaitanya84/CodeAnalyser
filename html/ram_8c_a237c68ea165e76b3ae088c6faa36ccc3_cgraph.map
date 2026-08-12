@@ -1,0 +1,16 @@
+<map id="watch_add_ram" name="watch_add_ram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,131,31"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="487,5,544,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,15,473,15,473,21,131,21"/>
+<area shape="rect" id="Node000004" href="$ram_8c.html#a511696515e6d82d824424d440f93165e" title=" " alt="" coords="179,31,257,56"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,26,165,32,165,37,131,31"/>
+<area shape="rect" id="Node000003" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="635,5,731,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="544,15,621,15,621,21,544,21"/>
+<area shape="rect" id="Node000005" href="$ram_8c.html#ae0784d3b95ac847ce484b7eabc53a543" title=" " alt="" coords="305,31,396,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="258,41,291,41,291,46,258,46"/>
+<area shape="rect" id="Node000006" href="$ram_8c.html#a846745d9d4c9933815cb1528f3d9b1a2" title=" " alt="" coords="311,80,390,105"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="254,54,304,72,302,77,252,59"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="396,34,472,22,473,27,397,39"/>
+<area shape="rect" id="Node000007" href="$ram_8c.html#a1c05ce5b6acab522b8bbc33a3165a3ce" title=" " alt="" coords="444,80,587,105"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="390,90,430,90,430,95,390,95"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="bootstrap_arg_adjust" name="bootstrap_arg_adjust">
+<area shape="rect" id="Node000001" title=" " alt="" coords="373,55,532,80"/>
+<area shape="rect" id="Node000002" href="$cpu__tweak__cmdline_8c.html#a7a0852e7eb68d6ce42e275b776e31707" title=" " alt="" coords="175,5,325,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,54,302,33,304,28,388,49"/>
+<area shape="rect" id="Node000004" href="$efi__tweak__cmdline_8c.html#aceb08f80956693a976cead24920a5e5b" title=" " alt="" coords="178,55,322,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,70,322,70,322,65,359,65"/>
+<area shape="rect" id="Node000005" href="$fdt__tweak__cmdline_8c.html#a6cd45454e8d84c7225197adaddde8199" title=" " alt="" coords="177,104,323,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="388,86,304,107,302,101,386,81"/>
+<area shape="rect" id="Node000003" href="$tweak__cmdline_8c.html#ab3750ac30dfacac15d5a6bd136ec0c04" title=" " alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,21,127,21,127,15,161,15"/>
+</map>

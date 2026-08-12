@@ -1,0 +1,13 @@
+<map id="src/hardware/startup/boards/bcm/bcm2712/bcm2712_init_raminfo.c" name="src/hardware/startup/boards/bcm/bcm2712/bcm2712_init_raminfo.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,5,261,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,85,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,62,71,101,68,97,113,58"/>
+<area shape="rect" id="Node000003" href="$mbox_8h.html" title=" " alt="" coords="110,108,181,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,60,148,94,143,94,143,60"/>
+<area shape="rect" id="Node000006" href="$bcm2712__startup_8h.html" title=" " alt="" coords="205,108,352,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,58,251,98,248,103,185,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,181,133,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,135,114,172,110,169,135,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="158,181,229,207"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="155,132,180,169,176,172,151,135"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/hardware/startup/lib/aarch64/board_find_acpi_rsdp_uefi.c" name="src/hardware/startup/lib/aarch64/board_find_acpi_rsdp_uefi.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,5,237,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,85,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,62,72,101,69,97,118,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,108,194,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,60,155,94,149,94,149,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,108,299,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,58,235,97,232,101,183,62"/>
+</map>

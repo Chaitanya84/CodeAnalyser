@@ -1,0 +1,17 @@
+<map id="src/hardware/devb/include/xpt.h" name="src/hardware/devb/include/xpt.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,400,45"/>
+<area shape="rect" id="Node000002" href="$cam_8h.html" title=" " alt="" coords="117,93,180,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,48,185,89,182,85,265,43"/>
+<area shape="rect" id="Node000006" href="$module_8h.html" title=" " alt="" coords="205,93,287,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="292,47,265,84,261,80,287,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="311,93,410,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="319,44,346,80,342,84,315,47"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="435,93,540,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="348,43,449,85,447,90,346,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,76,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,121,71,161,68,157,130,116"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,167,197,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="151,119,151,153,146,153,146,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="221,167,321,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="170,116,241,157,238,162,167,121"/>
+</map>

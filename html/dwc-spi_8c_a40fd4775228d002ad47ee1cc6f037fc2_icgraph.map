@@ -1,0 +1,14 @@
+<map id="dw_spi_enable" name="dw_spi_enable">
+<area shape="rect" id="Node000001" title="Enable Designware SPI device." alt="" coords="475,81,593,107"/>
+<area shape="rect" id="Node000002" href="$fini_8c.html#aee738b012f852e137540807c33ba3e64" title="SPI driver cleanup function." alt="" coords="126,5,194,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,78,426,53,362,39,298,30,194,22,194,16,299,25,363,34,427,47,496,73"/>
+<area shape="rect" id="Node000003" href="$spi_2dwc_2init_8c.html#ae928cd1fd8dabc18130cba7a1e0fa6f7" title="SPI initialization." alt="" coords="5,56,75,81"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="460,93,75,73,75,68,461,88"/>
+<area shape="rect" id="Node000004" href="$xfer_8c.html#a28e88b18173020cccf1eb0bfc03b08a1" title="Prepare for SPI exchange." alt="" coords="245,107,427,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,106,427,110,427,105,461,101"/>
+<area shape="rect" id="Node000005" href="$xfer_8c.html#a7f2746bdf559877722357c0cc2495e30" title="SPI transfer function." alt="" coords="123,107,197,132"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="502,116,467,134,427,147,377,156,336,158,245,147,195,135,196,130,246,142,337,153,376,151,426,142,465,129,500,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,39,72,58,70,53,116,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="232,122,197,122,197,117,232,117"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="116,104,70,84,72,79,118,99"/>
+</map>

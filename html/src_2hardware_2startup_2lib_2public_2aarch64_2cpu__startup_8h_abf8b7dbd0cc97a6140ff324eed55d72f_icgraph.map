@@ -1,0 +1,7 @@
+<map id="aarch64_cpuid_find" name="aarch64_cpuid_find">
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,5,409,31"/>
+<area shape="rect" id="Node000002" href="$cpu__startup_8c.html#a3c9ef458f88073bc9f9246409d5ae60b" title=" " alt="" coords="116,5,215,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,21,215,21,215,15,249,15"/>
+<area shape="rect" id="Node000003" href="$__main_8c.html#abaa8f446abb569a6f850a328569bec9f" title=" " alt="" coords="5,5,68,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,21,68,21,68,15,102,15"/>
+</map>

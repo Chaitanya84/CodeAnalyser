@@ -1,0 +1,37 @@
+<map id="EFI_LOADED_IMAGE_PROTOCOL" name="EFI_LOADED_IMAGE_PROTOCOL">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1079,786,1309,811"/>
+<area shape="rect" id="Node000002" href="$structEFI__SYSTEM__TABLE.html" title=" " alt="" coords="795,306,943,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="888,341,1186,784,1182,787,884,344"/>
+<area shape="rect" id="Node000003" href="$structEFI__TABLE__HEADER.html" title=" " alt="" coords="39,170,189,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,167,294,161,343,162,391,167,525,195,653,234,763,273,839,304,837,308,761,278,651,239,523,200,390,172,342,167,294,166,203,172"/>
+<area shape="rect" id="Node000008" href="$structEFI__RUNTIME__SERVICES.html" title=" " alt="" coords="428,306,608,331"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="203,184,310,193,358,200,392,210,429,230,462,256,508,304,504,308,458,260,426,235,390,214,356,205,310,198,203,189"/>
+<area shape="rect" id="Node000013" href="$structEFI__BOOT__SERVICES.html" title=" " alt="" coords="440,441,596,466"/>
+<area shape="poly" id="edge14_Node000013_Node000003" title=" " alt="" coords="162,198,247,227,289,234,325,235,358,241,375,249,393,264,406,283,408,302,410,321,417,343,437,372,460,398,503,439,499,442,456,402,433,375,412,345,404,322,403,303,401,285,389,267,372,254,356,246,324,240,289,239,246,232,160,203"/>
+<area shape="rect" id="Node000004" href="$structEFI__SIMPLE__TEXT__INPUT__PROTOCOL.html" title=" " alt="" coords="427,5,609,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="624,16,662,20,701,28,739,42,772,63,799,90,821,122,837,157,850,193,864,259,869,305,864,306,859,260,844,194,832,159,816,125,795,94,769,67,736,47,700,33,661,25,623,22"/>
+<area shape="rect" id="Node000005" href="$structEFI__INPUT__KEY.html" title=" " alt="" coords="53,13,175,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="188,23,427,23,427,28,188,28"/>
+<area shape="rect" id="Node000006" href="$structEFI__SIMPLE__TEXT__OUTPUT__PROTOCOL.html" title=" " alt="" coords="419,69,617,109"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="631,95,714,107,748,116,772,127,794,147,813,170,841,220,858,269,868,305,862,307,853,271,836,223,808,173,790,150,769,132,746,121,713,112,630,100"/>
+<area shape="rect" id="Node000007" href="$structSIMPLE__TEXT__OUTPUT__MODE.html" title=" " alt="" coords="5,77,223,102"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="236,87,419,87,419,92,236,92"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="622,316,795,316,795,321,622,321"/>
+<area shape="rect" id="Node000009" href="$structEFI__TIME__CAPABILITIES.html" title=" " alt="" coords="27,259,201,285"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="215,280,391,300,428,305,428,310,390,305,215,285"/>
+<area shape="rect" id="Node000010" href="$structEFI__TIME.html" title=" " alt="" coords="73,309,155,334"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="168,318,428,317,428,322,168,324"/>
+<area shape="rect" id="Node000011" href="$structEFI__MEMORY__DESCRIPTOR.html" title=" " alt="" coords="15,399,213,425"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="182,394,461,329,462,334,184,399"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="161,427,203,440,247,449,347,457,440,456,440,462,347,463,246,455,201,445,160,432"/>
+<area shape="rect" id="Node000012" href="$structEFI__GUID.html" title=" " alt="" coords="73,722,155,747"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="127,708,173,640,207,602,245,570,266,558,286,553,322,549,356,544,372,536,389,522,401,500,403,479,404,455,412,428,432,398,456,370,499,330,502,333,459,374,436,401,417,430,409,456,409,479,407,502,393,526,375,541,357,549,323,555,287,558,268,563,248,574,210,606,178,643,131,711"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="169,739,229,745,294,748,352,745,374,739,389,731,400,719,406,707,408,681,406,651,412,617,434,570,460,527,504,465,509,468,464,530,439,573,417,618,411,652,413,681,411,709,405,722,392,735,376,744,353,750,294,754,228,751,169,745"/>
+<area shape="rect" id="Node000015" href="$structEFI__CONFIGURATION__TABLE.html" title=" " alt="" coords="415,629,621,654"/>
+<area shape="poly" id="edge19_Node000015_Node000012" title=" " alt="" coords="153,751,202,770,263,786,295,790,327,790,359,786,390,776,430,750,465,716,491,680,508,653,512,655,495,683,469,719,434,754,392,781,360,791,328,796,294,795,262,791,201,775,152,756"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="564,433,833,329,835,334,566,438"/>
+<area shape="rect" id="Node000014" href="$structEFI__DEVICE__PATH.html" title=" " alt="" coords="45,937,183,962"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="196,952,290,954,390,949,612,920,828,881,1014,840,1143,809,1144,814,1015,845,829,886,613,926,391,955,290,959,196,957"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="197,947,253,945,310,939,359,929,377,922,389,913,401,890,408,857,409,772,406,684,407,646,412,617,432,570,457,527,503,465,508,468,462,530,437,572,417,618,412,646,411,684,415,772,413,857,407,892,393,916,379,926,360,934,311,945,254,950,197,953"/>
+<area shape="poly" id="edge18_Node000002_Node000015" title=" " alt="" coords="544,618,644,533,769,419,854,330,858,334,773,423,648,537,547,622"/>
+</map>

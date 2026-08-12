@@ -1,0 +1,39 @@
+<map id="acpi_madt_generic" name="acpi_madt_generic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="680,418,825,443"/>
+<area shape="rect" id="Node000002" href="$structacpi__madt__header.html" title=" " alt="" coords="5,287,148,313"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,273,104,233,133,185,171,138,194,118,220,102,339,45,393,27,445,17,496,17,548,27,601,50,658,87,678,112,695,149,723,247,743,348,752,418,747,418,737,349,718,249,690,151,673,115,654,91,599,55,546,32,496,22,446,22,394,32,341,50,223,106,198,122,175,142,137,188,109,236,90,276"/>
+<area shape="rect" id="Node000008" href="$structacpi__madt__local__apic__address__override.html" title=" " alt="" coords="256,116,419,156"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="94,275,147,219,182,190,220,166,254,151,256,156,223,170,185,194,150,223,98,279"/>
+<area shape="rect" id="Node000009" href="$structacpi__madt__io__sapic.html" title=" " alt="" coords="262,181,413,206"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="106,277,158,245,220,215,261,203,262,208,222,220,160,250,109,282"/>
+<area shape="rect" id="Node000010" href="$structacpi__madt__local__sapic.html" title=" " alt="" coords="253,230,422,255"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="148,282,221,265,278,253,279,258,222,271,149,287"/>
+<area shape="rect" id="Node000011" href="$structacpi__madt__platform__interrupt__sources.html" title=" " alt="" coords="261,280,414,320"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="162,297,260,297,260,303,162,303"/>
+<area shape="rect" id="Node000012" href="$structacpi__madt__generic__interrupt.html" title=" " alt="" coords="233,345,441,370"/>
+<area shape="poly" id="edge16_Node000012_Node000002" title=" " alt="" coords="149,313,222,329,279,342,278,347,221,335,148,318"/>
+<area shape="rect" id="Node000013" href="$structacpi__madt__generic__distributor.html" title=" " alt="" coords="228,394,447,419"/>
+<area shape="poly" id="edge18_Node000013_Node000002" title=" " alt="" coords="109,318,161,350,222,379,264,391,262,396,220,384,158,354,107,323"/>
+<area shape="rect" id="Node000014" href="$structacpi__madt__generic__redistributor.html" title=" " alt="" coords="221,443,453,469"/>
+<area shape="poly" id="edge20_Node000014_Node000002" title=" " alt="" coords="98,322,150,377,184,405,222,428,257,441,255,446,220,433,181,410,146,381,94,325"/>
+<area shape="rect" id="Node000015" href="$structacpi__madt__generic__translator.html" title=" " alt="" coords="230,493,445,518"/>
+<area shape="poly" id="edge22_Node000015_Node000002" title=" " alt="" coords="92,324,112,361,140,404,177,445,199,463,223,478,255,490,253,495,220,482,196,467,174,449,136,407,107,364,87,327"/>
+<area shape="rect" id="Node000003" href="$structacpi__madt__processor__local__apic.html" title=" " alt="" coords="257,543,417,583"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="431,563,484,561,541,554,600,541,655,520,682,503,706,482,740,442,745,445,710,486,685,508,657,525,601,546,542,559,484,566,431,569"/>
+<area shape="rect" id="Node000004" href="$structacpi__madt__io__apic.html" title=" " alt="" coords="266,607,409,633"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="422,627,478,627,538,622,599,608,655,582,690,550,716,511,734,473,745,443,750,445,739,475,721,514,694,554,657,586,601,613,539,627,478,633,422,632"/>
+<area shape="rect" id="Node000005" href="$structacpi__madt__interrupt__source__overrides.html" title=" " alt="" coords="261,657,414,697"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="428,690,483,693,542,689,601,676,629,664,654,649,678,627,698,601,714,572,726,541,741,484,748,443,753,444,746,485,731,543,719,574,703,603,682,630,658,653,631,669,603,681,543,695,483,698,427,696"/>
+<area shape="rect" id="Node000006" href="$structacpi__madt__nmi__interrupt__sources.html" title=" " alt="" coords="245,721,430,761"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="444,758,497,760,553,755,607,741,631,729,654,714,684,684,706,649,723,610,735,570,747,496,749,444,754,444,752,496,740,571,728,612,711,652,688,688,658,718,634,734,608,746,554,760,497,765,444,763"/>
+<area shape="rect" id="Node000007" href="$structacpi__madt__local__apic__nmi.html" title=" " alt="" coords="240,786,435,811"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="399,812,458,821,526,823,561,819,594,811,626,798,654,779,673,755,690,717,718,617,737,514,747,443,752,444,743,515,723,618,695,719,678,758,658,783,628,803,596,816,561,824,526,828,458,826,398,817"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="432,121,488,121,547,127,605,144,633,157,658,174,685,201,706,233,723,268,735,303,749,370,754,417,748,418,744,371,730,305,718,270,702,235,681,204,654,178,630,162,603,149,546,133,487,126,432,126"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="427,191,558,199,617,210,657,226,681,246,700,271,728,326,745,379,752,417,747,419,739,380,723,328,696,274,677,250,655,230,616,215,558,205,426,196"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="436,242,563,253,618,263,657,278,693,310,720,349,739,387,750,417,745,419,734,389,716,352,689,313,655,282,617,268,562,258,435,248"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="428,306,557,323,615,334,657,347,683,362,707,381,742,416,739,420,704,385,680,367,655,352,614,339,556,328,427,311"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="455,362,554,374,657,393,723,415,721,420,655,399,553,379,455,368"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="461,411,680,424,680,429,461,416"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="467,452,656,443,679,440,680,445,656,448,467,458"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="458,502,555,493,655,473,695,458,729,441,731,446,697,463,657,479,556,498,459,507"/>
+</map>

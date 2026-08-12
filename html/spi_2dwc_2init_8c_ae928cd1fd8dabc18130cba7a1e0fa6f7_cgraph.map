@@ -1,0 +1,37 @@
+<map id="spi_init" name="spi_init">
+<area shape="rect" id="Node000001" title="SPI initialization." alt="" coords="5,207,75,232"/>
+<area shape="rect" id="Node000002" href="$devinfo_8c.html#a6f2ceb88c273496d87647e448fbce081" title="Get SPI device info function." alt="" coords="123,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,206,50,174,66,130,89,83,121,40,125,37,128,40,125,44,94,86,71,132,55,175,47,207"/>
+<area shape="rect" id="Node000004" href="$drvinfo_8c.html#ae3348b1bacac3975e1c3b8fcea21a8a7" title="Get SPI driver info function." alt="" coords="124,181,219,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="74,210,110,203,111,208,75,215"/>
+<area shape="rect" id="Node000005" href="$fini_8c.html#aee738b012f852e137540807c33ba3e64" title="SPI driver cleanup function." alt="" coords="137,356,205,381"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="54,230,152,344,148,348,50,234"/>
+<area shape="rect" id="Node000008" href="$dwc-spi_8c.html#a40fd4775228d002ad47ee1cc6f037fc2" title="Enable Designware SPI device." alt="" coords="497,431,616,456"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="47,232,56,263,71,306,94,351,125,392,158,423,189,441,224,453,268,463,327,472,387,471,444,465,493,456,494,462,445,470,388,477,327,477,268,469,222,458,187,446,155,427,121,396,89,354,66,308,51,265,42,233"/>
+<area shape="rect" id="Node000009" href="$config_8c.html#a55ef94e837dba9cae31e9670bfe30cd0" title="Set SPI device configuration." alt="" coords="127,55,215,80"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="50,205,148,89,152,92,54,208"/>
+<area shape="rect" id="Node000011" href="$xfer_8c.html#a7f2746bdf559877722357c0cc2495e30" title="SPI transfer function." alt="" coords="134,231,209,256"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="75,223,121,232,120,237,74,228"/>
+<area shape="rect" id="Node000003" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="319,5,398,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,15,306,15,306,21,220,21"/>
+<area shape="rect" id="Node000006" href="$dwc-spi_8c.html#a71abcfddae14cafc3c4e471ded184596" title="De&#45;select SPI slaves." alt="" coords="273,356,444,381"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="206,366,260,366,260,371,206,371"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="186,380,221,413,244,429,269,441,323,454,380,459,434,458,483,453,484,459,435,463,380,464,322,459,267,446,241,433,217,417,182,384"/>
+<area shape="rect" id="Node000007" href="$dwc-spi_8c.html#a077df2ab5cf46bca42e440516f34230d" title="Check if SPI is busy." alt="" coords="504,255,609,280"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="384,353,518,284,520,289,386,358"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="215,53,305,29,307,34,216,58"/>
+<area shape="rect" id="Node000010" href="$config_8c.html#a174620d1c65e04aadaf8ff1e4ffec088" title="SPI configuration function." alt="" coords="325,55,393,80"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="215,65,311,65,311,70,215,70"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="201,228,218,216,233,196,239,177,248,158,267,141,315,120,358,114,401,121,451,141,482,161,508,188,545,241,541,244,504,191,479,165,448,146,399,126,358,119,317,125,269,146,252,161,244,179,237,199,222,220,204,233"/>
+<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="196,254,269,289,320,304,361,311,402,321,451,342,500,379,538,418,534,422,496,383,448,347,400,326,360,317,318,309,267,294,194,259"/>
+<area shape="rect" id="Node000012" href="$xfer_8c.html#a28e88b18173020cccf1eb0bfc03b08a1" title="Prepare for SPI exchange." alt="" coords="268,405,449,431"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="180,255,191,284,210,321,236,359,270,392,277,397,274,401,266,396,232,363,205,324,186,286,175,257"/>
+<area shape="rect" id="Node000013" href="$xfer_8c.html#a5af1ed2bcccf12c26b055aadfa4f9104" title="Select a SPI slave." alt="" coords="281,255,436,280"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="209,245,268,253,267,258,208,251"/>
+<area shape="rect" id="Node000014" href="$spi_2dwc_2intr_8c.html#ae25127d55e780a207e0124ff320edaea" title="Wait for SPI transfer complete." alt="" coords="321,205,397,231"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="208,236,307,222,307,228,209,241"/>
+<area shape="rect" id="Node000015" href="$spi_2dwc_2intr_8c.html#adf2a15314c9e679ffb92c2d643ed8d0f" title="Write SPI FIFO." alt="" coords="304,156,413,181"/>
+<area shape="poly" id="edge20_Node000011_Node000015" title=" " alt="" coords="195,228,267,190,290,182,292,187,269,195,198,233"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="450,427,484,431,483,437,449,432"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="436,265,490,265,490,270,436,270"/>
+</map>

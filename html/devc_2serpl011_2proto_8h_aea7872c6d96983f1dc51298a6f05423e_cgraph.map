@@ -1,0 +1,19 @@
+<map id="create_device" name="create_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,119,155"/>
+<area shape="rect" id="Node000002" href="$install_2usr_2include_2arm_2inout_8h.html#ac33d6679b87b863546cf9348a4bd2d20" title=" " alt="" coords="197,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,128,110,85,136,61,165,40,183,30,186,35,168,44,140,65,114,89,76,131"/>
+<area shape="rect" id="Node000003" href="$devc_2serpl011_2intr_8c.html#ad793d4a4ef2779d89cc6e25686f9d925" title=" " alt="" coords="169,55,287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="87,127,166,89,180,83,182,88,168,94,89,132"/>
+<area shape="rect" id="Node000006" href="$devc_2serpl011_2intr_8c.html#a541e84159280ffaa435ca60366cd9a07" title=" " alt="" coords="167,104,289,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="119,131,153,125,153,131,119,136"/>
+<area shape="rect" id="Node000007" href="$tto_8c.html#adf56cc1c464feedc54792eacae3cf4da" title=" " alt="" coords="191,153,265,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="119,148,178,156,177,161,119,153"/>
+<area shape="rect" id="Node000008" href="$devc_2serpl011_2proto_8h.html#a7f9d2ca2e877e97b6620f32849bc9473" title=" " alt="" coords="175,203,281,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="91,152,168,188,185,195,183,200,166,192,89,157"/>
+<area shape="rect" id="Node000009" href="$devc_2serpl011_2proto_8h.html#a523e8623ba19fc29a7bcd7c5426e0c56" title=" " alt="" coords="168,252,288,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="76,153,115,193,168,237,180,244,177,248,165,242,111,197,72,157"/>
+<area shape="rect" id="Node000004" href="$aarch64_2le_8rpi5_2variant_8c.html#a6768819e67a33cbe824da73c505d2692" title=" " alt="" coords="337,55,463,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,65,323,65,323,70,288,70"/>
+<area shape="rect" id="Node000005" href="$fdt__utils_8c.html#a66f91d31060034b65bc4e7de01831ea0" title=" " alt="" coords="511,55,701,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,65,497,65,497,70,463,70"/>
+</map>

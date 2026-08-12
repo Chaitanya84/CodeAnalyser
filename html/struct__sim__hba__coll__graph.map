@@ -1,0 +1,39 @@
+<map id="_sim_hba" name="_sim_hba">
+<area shape="rect" id="Node000001" title=" " alt="" coords="931,85,1015,111"/>
+<area shape="rect" id="Node000002" href="$struct__sim__hba__extension.html" title=" " alt="" coords="1219,17,1373,43"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="997,74,1028,52,1066,34,1104,25,1144,20,1218,19,1219,25,1144,25,1105,30,1068,39,1031,57,1000,79"/>
+<area shape="rect" id="Node000003" href="$structsim__queue.html" title=" " alt="" coords="1249,131,1343,156"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="1006,116,1035,131,1067,142,1115,150,1164,152,1249,147,1249,153,1164,157,1114,155,1066,147,1033,136,1003,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1222,48,1195,54,1015,92,1014,87,1194,49,1221,43"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1235,136,1194,130,1014,106,1015,100,1195,125,1236,131"/>
+<area shape="rect" id="Node000004" href="$structsim__target__queue.html" title=" " alt="" coords="903,175,1042,200"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="1056,193,1124,193,1194,185,1236,171,1272,154,1274,158,1238,176,1195,190,1124,198,1056,198"/>
+<area shape="rect" id="Node000005" href="$structsim__lun__queue.html" title=" " alt="" coords="655,172,775,197"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="789,183,903,184,903,189,789,188"/>
+<area shape="rect" id="Node000006" href="$struct__cam__entry.html" title=" " alt="" coords="665,263,764,288"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="776,257,828,236,854,222,877,204,885,194,889,185,900,162,927,132,954,109,957,113,931,136,905,165,894,187,890,197,881,208,857,226,831,241,778,262"/>
+<area shape="rect" id="Node000009" href="$struct__peripheral__driver__extension.html" title=" " alt="" coords="903,254,1043,294"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="777,272,902,272,902,277,777,278"/>
+<area shape="rect" id="Node000007" href="$struct__devobj.html" title=" " alt="" coords="1460,297,1533,323"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="1447,315,1212,320,1058,317,902,309,829,300,764,288,765,283,830,294,903,303,1058,312,1212,314,1446,310"/>
+<area shape="rect" id="Node000008" href="$struct__pdrvr.html" title=" " alt="" coords="1265,268,1327,293"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1341,284,1460,302,1460,307,1340,290"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="1251,286,1165,289,1067,287,1043,285,1043,280,1067,282,1165,284,1250,281"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1056,265,1067,265,1131,262,1195,265,1265,273,1264,278,1194,270,1131,268,1067,270,1056,270"/>
+<area shape="rect" id="Node000010" href="$struct__sim__config__info.html" title=" " alt="" coords="649,55,780,80"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="794,74,931,90,930,96,794,79"/>
+<area shape="rect" id="Node000011" href="$struct__sim__device__id.html" title=" " alt="" coords="399,31,522,56"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="536,48,649,59,649,64,535,53"/>
+<area shape="rect" id="Node000012" href="$union__sim__bus__access.html" title=" " alt="" coords="393,80,528,105"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="541,83,625,75,649,73,649,78,626,81,542,89"/>
+<area shape="rect" id="Node000013" href="$struct__sim__bus__access_1_1PCIAccess.html" title=" " alt="" coords="21,5,229,31"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="243,28,307,40,370,55,394,66,424,77,422,82,392,71,368,61,305,45,242,34"/>
+<area shape="rect" id="Node000014" href="$struct__sim__bus__access_1_1EISAAccess.html" title=" " alt="" coords="16,55,233,80"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="248,74,393,85,393,90,247,79"/>
+<area shape="rect" id="Node000015" href="$struct__sim__bus__access_1_1PnPAccess.html" title=" " alt="" coords="19,104,230,129"/>
+<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="244,116,369,109,406,103,407,108,370,114,244,121"/>
+<area shape="rect" id="Node000016" href="$struct__sim__bus__access_1_1PCMCIAAccess.html" title=" " alt="" coords="5,153,244,179"/>
+<area shape="poly" id="edge19_Node000012_Node000016" title=" " alt="" coords="258,156,314,147,369,134,405,120,437,103,440,108,408,125,370,139,315,152,258,161"/>
+<area shape="rect" id="Node000017" href="$struct__sim__hba__stats.html" title=" " alt="" coords="653,104,776,129"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="790,114,878,110,930,103,931,108,879,115,790,120"/>
+</map>

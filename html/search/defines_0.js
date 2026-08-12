@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['_5f_5fagav_5fmajor_5fshift_0',['__agav_major_shift',['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#a006da65918b960538babd60909517d0e',1,'__agav_major_shift:&#160;gic.h'],['../install_2usr_2include_2aarch64_2gic_8h.html#a006da65918b960538babd60909517d0e',1,'__agav_major_shift:&#160;gic.h']]],
+  ['_5f_5fagav_5fminor_5fshift_1',['__agav_minor_shift',['../install_2usr_2include_2aarch64_2gic_8h.html#a7d89eb6bb60813d560ea5312f0a942c4',1,'__agav_minor_shift:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#a7d89eb6bb60813d560ea5312f0a942c4',1,'__agav_minor_shift:&#160;gic.h']]],
+  ['_5f_5fboard_5fh_2',['__BOARD_H',['../board_8h.html#ad464160111a5b72df9f7b23c8292ca86',1,'board.h']]],
+  ['_5f_5fgii_5farchver_5fshift_3',['__gii_archver_shift',['../install_2usr_2include_2aarch64_2gic_8h.html#a60262c19e575d8cdd30469731f5f8c71',1,'__gii_archver_shift:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#a60262c19e575d8cdd30469731f5f8c71',1,'__gii_archver_shift:&#160;gic.h']]],
+  ['_5f_5fgii_5fimplco_5fshift_4',['__gii_implco_shift',['../install_2usr_2include_2aarch64_2gic_8h.html#ab29dbec02214c0108e2a3b27c4a43e79',1,'__gii_implco_shift:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#ab29dbec02214c0108e2a3b27c4a43e79',1,'__gii_implco_shift:&#160;gic.h']]],
+  ['_5f_5fgii_5fimplid_5fshift_5',['__gii_implid_shift',['../install_2usr_2include_2aarch64_2gic_8h.html#ac05aefb68f8f770d67d9d40058733f56',1,'__gii_implid_shift:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#ac05aefb68f8f770d67d9d40058733f56',1,'__gii_implid_shift:&#160;gic.h']]],
+  ['_5f_5fgii_5fimplver_5fshift_6',['__gii_implver_shift',['../install_2usr_2include_2aarch64_2gic_8h.html#afba16605c16f032b59b0cf6901084aa1',1,'__gii_implver_shift:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#afba16605c16f032b59b0cf6901084aa1',1,'__gii_implver_shift:&#160;gic.h']]],
+  ['_5f_5fpagesize_7',['__pagesize',['../install_2usr_2include_2startup_8h.html#a8f92c19e1d6e8808f931e2ee34b7ec0d',1,'__PAGESIZE:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a8f92c19e1d6e8808f931e2ee34b7ec0d',1,'__PAGESIZE:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2cpu__startup_8h.html#a8f92c19e1d6e8808f931e2ee34b7ec0d',1,'__PAGESIZE:&#160;cpu_startup.h'],['../install_2usr_2include_2aarch64_2cpu__startup_8h.html#a8f92c19e1d6e8808f931e2ee34b7ec0d',1,'__PAGESIZE:&#160;cpu_startup.h']]],
+  ['_5f_5fsc_8',['__sc',['../install_2usr_2include_2sys_2startup_8h.html#ae5682465f77b61d44763d1b34d08a932',1,'__SC:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2sys_2startup_8h.html#ae5682465f77b61d44763d1b34d08a932',1,'__SC:&#160;startup.h']]],
+  ['_5f_5fstack_5fsig_9',['__stack_sig',['../install_2usr_2include_2sys_2startup_8h.html#abd6e86e663375d4ab873e6d7de5b13a7',1,'__STACK_SIG:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2sys_2startup_8h.html#abd6e86e663375d4ab873e6d7de5b13a7',1,'__STACK_SIG:&#160;startup.h']]],
+  ['_5fassert_10',['_assert',['../install_2usr_2include_2startup_8h.html#a5289e3fa85117faf708ca25ea2aea867',1,'_ASSERT:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a5289e3fa85117faf708ca25ea2aea867',1,'_ASSERT:&#160;startup.h']]],
+  ['_5fcam_5fentry_5fnfuncs_11',['_CAM_ENTRY_NFUNCS',['../ntocam_8h.html#ab28b2f773a342f42b1134f3c31722327',1,'ntocam.h']]],
+  ['_5fcam_5fsg_5felem_5fdefined_12',['_CAM_SG_ELEM_DEFINED',['../cam_8h.html#a80a9db606717dd9dcb294a27b86beb79',1,'cam.h']]],
+  ['_5fnto_5fcam_5fversion_13',['_NTO_CAM_VERSION',['../ntocam_8h.html#a9671651e72ba218b6b97e636a525c0e4',1,'ntocam.h']]],
+  ['_5fslog_5fdebug3_14',['_SLOG_DEBUG3',['../dwc-spi_8h.html#a1a544f6d7f39932a0eb75246dbb24316',1,'dwc-spi.h']]],
+  ['_5fslogc_5fpwm_15',['_SLOGC_PWM',['../support_2bcm2712_2fan_2proto_8h.html#acb14b669be3b49fd6882df08dcd59fc5',1,'proto.h']]],
+  ['_5fslogc_5fsdiodi_16',['_SLOGC_SDIODI',['../internal_8h.html#afe1b8af57a839d1dd7e2417e2b6f15e4',1,'internal.h']]]
+];

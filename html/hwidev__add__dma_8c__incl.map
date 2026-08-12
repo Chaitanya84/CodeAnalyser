@@ -1,0 +1,9 @@
+<map id="src/hardware/startup/lib/hwidev_add_dma.c" name="src/hardware/startup/lib/hwidev_add_dma.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,5,272,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,85,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,48,80,89,77,84,152,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="109,93,264,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,46,189,79,184,79,184,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="289,93,397,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,43,309,85,306,89,223,48"/>
+</map>

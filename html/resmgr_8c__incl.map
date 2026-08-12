@@ -1,0 +1,25 @@
+<map id="src/hardware/support/bcm2712/fan/resmgr.c" name="src/hardware/support/bcm2712/fan/resmgr.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="314,5,485,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,76,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,47,90,96,89,91,313,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,93,167,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="337,48,181,93,180,88,335,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,93,263,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,48,266,90,264,85,357,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,93,387,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="386,47,357,84,353,81,382,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="411,93,516,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="417,44,447,81,443,84,413,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="541,93,655,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="448,43,557,86,555,91,446,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="680,93,759,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="477,43,667,89,666,94,475,48"/>
+<area shape="rect" id="Node000009" href="$support_2bcm2712_2fan_2proto_8h.html" title=" " alt="" coords="783,93,851,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="485,38,615,60,770,90,769,96,615,65,485,43"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="679,167,749,192"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="802,121,744,161,741,156,799,116"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="773,167,860,192"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="819,119,819,153,814,153,814,119"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="885,167,1010,192"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="839,116,915,158,913,162,836,121"/>
+</map>

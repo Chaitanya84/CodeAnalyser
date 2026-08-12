@@ -1,0 +1,17 @@
+<map id="sdio_reset" name="sdio_reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="587,85,676,111"/>
+<area shape="rect" id="Node000002" href="$sim__sdmmc_8c.html#af87f0032fda517674cd06e8fe03e87bc" title=" " alt="" coords="428,85,539,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="573,101,539,101,539,95,573,95"/>
+<area shape="rect" id="Node000003" href="$sim__sdmmc_8c.html#a4e0b4122478e45d4cf2efedc477bd4d7" title=" " alt="" coords="241,5,356,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,82,379,52,332,33,334,28,381,48,445,77"/>
+<area shape="rect" id="Node000005" href="$sim__sdmmc_8c.html#a74a5d07ff73c6f8133c901a7835a357a" title=" " alt="" coords="14,56,161,81"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="414,96,161,77,161,71,414,90"/>
+<area shape="rect" id="Node000006" href="$sim__sdmmc_8c.html#a5d44ad9467b84bcb4dcdc76a22970969" title=" " alt="" coords="217,106,380,146"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,111,381,116,380,111,414,106"/>
+<area shape="rect" id="Node000007" href="$sim__sdmmc_8c.html#a25ad84dc8aa1baf4f3c6617df1554b99" title=" " alt="" coords="252,171,345,196"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="453,121,381,160,346,173,345,168,379,156,450,116"/>
+<area shape="rect" id="Node000004" href="$sim__sdmmc_8c.html#a72c2b5c035e1c5e84073a46f1f8406ba" title=" " alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,21,169,21,169,15,227,15"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,37,142,59,140,53,231,31"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="238,170,216,160,151,121,102,84,106,79,154,117,219,156,240,165"/>
+</map>

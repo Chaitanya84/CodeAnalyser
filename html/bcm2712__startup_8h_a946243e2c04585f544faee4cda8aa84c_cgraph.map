@@ -1,0 +1,7 @@
+<map id="get_board_revision" name="get_board_revision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,152,56"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="263,5,328,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,32,249,21,249,26,153,37"/>
+<area shape="rect" id="Node000003" href="$startup_2boards_2bcm_2bcm2712_2mbox_8c.html#a3ab7c8341556d9c920b92b2e2c9bc6bc" title=" " alt="" coords="200,55,391,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,49,187,53,186,58,152,54"/>
+</map>

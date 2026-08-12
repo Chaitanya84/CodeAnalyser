@@ -1,0 +1,7 @@
+<map id="hwitag_set_avail_ivec" name="hwitag_set_avail_ivec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,172,56"/>
+<area shape="rect" id="Node000002" href="$hwi__alloc_8c.html#a1c561587803987ed92757b0e9b95764f" title=" " alt="" coords="220,5,355,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,30,206,26,207,31,173,35"/>
+<area shape="rect" id="Node000003" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="255,55,320,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,51,241,59,241,64,172,56"/>
+</map>

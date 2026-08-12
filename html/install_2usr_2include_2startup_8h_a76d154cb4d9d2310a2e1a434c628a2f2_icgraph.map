@@ -1,0 +1,24 @@
+<map id="hwitag_add_inputclk" name="hwitag_add_inputclk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,179,597,204"/>
+<area shape="rect" id="Node000002" href="$hwi__add__inputclk_8c.html#a2bf19d987a4cf9dcb36ae7f6d5575e86" title=" " alt="" coords="255,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,168,457,106,427,73,392,44,370,33,373,28,395,40,430,69,461,103,506,165"/>
+<area shape="rect" id="Node000003" href="$hwibus__add__can_8c.html#a3fdd7fa64f80b538c04d48f9ed032725" title=" " alt="" coords="257,55,387,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="494,171,449,132,392,94,367,82,369,78,395,89,452,128,497,167"/>
+<area shape="rect" id="Node000004" href="$hwibus__add__i2c_8c.html#ade8a6c9de4e7b3bb5e2de7cfac8defb3" title=" " alt="" coords="259,104,385,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,176,392,143,361,132,363,127,394,138,476,171"/>
+<area shape="rect" id="Node000005" href="$hwibus__add__sdio_8c.html#a84a0c470e3af0c73d67744e4d2574c87" title=" " alt="" coords="255,153,389,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="427,182,389,177,389,172,428,177"/>
+<area shape="rect" id="Node000006" href="$hwibus__add__spi_8c.html#adeadccf09c1bc27eff61bcf124c686df" title=" " alt="" coords="259,203,385,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="428,205,385,210,384,205,427,200"/>
+<area shape="rect" id="Node000007" href="$hwidev__add__enet_8c.html#a8251b897be832d0ed2d3b39589b89450" title=" " alt="" coords="254,252,390,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="474,211,394,242,360,254,358,249,392,237,472,207"/>
+<area shape="rect" id="Node000010" href="$hwidev__add__timer_8c.html#aeb23b5624ce768d29386958ed5f8c6ab" title=" " alt="" coords="251,301,393,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="496,215,451,253,395,291,366,304,364,299,392,286,448,249,493,211"/>
+<area shape="rect" id="Node000011" href="$hwidev__add__uart_8c.html#a935f354ce69af930dce83480ccf64c44" title=" " alt="" coords="255,351,389,376"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="505,217,461,278,430,311,395,340,371,353,368,348,392,336,426,307,456,275,501,214"/>
+<area shape="rect" id="Node000008" href="$lib_2aarch64_2init__hwinfo_8c.html#a889ff8fd323911db50ada9e72347a0f8" title=" " alt="" coords="108,277,203,303"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="241,280,203,286,202,280,240,274"/>
+<area shape="rect" id="Node000009" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,277,60,303"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="95,293,60,293,60,287,95,287"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="237,304,202,299,203,294,238,299"/>
+</map>

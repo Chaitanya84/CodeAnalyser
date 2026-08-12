@@ -1,0 +1,8 @@
+<map id="get_board_revision" name="get_board_revision">
+<area shape="rect" id="Node000001" title=" " alt="" coords="324,31,471,56"/>
+<area shape="rect" id="Node000002" href="$bcm2712__init__raminfo_8c.html#a4e92811966f6dec35c74b59abffdb420" title=" " alt="" coords="108,5,276,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,35,276,31,277,26,311,30"/>
+<area shape="rect" id="Node000003" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="310,46,60,46,60,41,310,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,36,60,42,60,36,98,30"/>
+</map>

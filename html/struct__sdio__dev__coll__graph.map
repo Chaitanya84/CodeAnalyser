@@ -1,0 +1,31 @@
+<map id="_sdio_dev" name="_sdio_dev">
+<area shape="rect" id="Node000001" title=" " alt="" coords="672,181,759,207"/>
+<area shape="rect" id="Node000002" href="$struct__sdio__hc.html" title=" " alt="" coords="340,269,419,295"/>
+<area shape="poly" id="edge4_Node000002_Node000001" title=" " alt="" coords="659,209,548,233,415,272,414,267,547,228,658,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,273,512,262,600,243,650,224,692,204,695,209,652,229,601,248,513,268,432,279"/>
+<area shape="rect" id="Node000003" href="$struct__sdio__hc__cfg.html" title=" " alt="" coords="5,181,111,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,208,247,243,340,268,339,273,245,248,113,213"/>
+<area shape="rect" id="Node000004" href="$struct__sdio__hc__entry.html" title=" " alt="" coords="135,181,253,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="233,210,355,267,353,271,230,215"/>
+<area shape="rect" id="Node000005" href="$struct__sdio__pci__dev.html" title=" " alt="" coords="277,181,391,207"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="349,218,375,268,371,270,344,220"/>
+<area shape="rect" id="Node000006" href="$struct__sdio__wspc.html" title=" " alt="" coords="415,181,511,207"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="444,219,393,271,389,267,440,215"/>
+<area shape="rect" id="Node000007" href="$structsdio__cmd.html" title=" " alt="" coords="401,93,485,119"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="452,131,463,180,458,181,447,133"/>
+<area shape="rect" id="Node000008" href="$struct__sdio__sge.html" title=" " alt="" coords="327,5,413,31"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="363,44,356,81,357,100,363,117,377,138,396,155,436,179,433,183,393,159,373,141,358,120,352,101,351,80,358,43"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="391,39,435,91,431,95,387,43"/>
+<area shape="rect" id="Node000009" href="$struct__sdio__cid.html" title=" " alt="" coords="510,93,593,119"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="587,123,694,179,692,183,584,127"/>
+<area shape="rect" id="Node000010" href="$struct__sdio__csd.html" title=" " alt="" coords="617,93,702,119"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="677,129,710,179,705,182,672,132"/>
+<area shape="rect" id="Node000011" href="$struct__sdio__ecsd.html" title=" " alt="" coords="726,93,819,119"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="760,132,726,182,721,179,755,129"/>
+<area shape="rect" id="Node000012" href="$struct__sd__scr__t.html" title=" " alt="" coords="843,93,926,119"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="852,127,790,160,741,183,739,179,787,155,850,123"/>
+<area shape="rect" id="Node000013" href="$struct__sd__sds__t.html" title=" " alt="" coords="950,93,1035,119"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="949,126,845,160,760,184,758,179,844,155,947,121"/>
+<area shape="rect" id="Node000014" href="$struct__sd__switch__cap.html" title=" " alt="" coords="1059,93,1182,119"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1067,125,921,160,759,189,758,184,920,155,1066,120"/>
+</map>

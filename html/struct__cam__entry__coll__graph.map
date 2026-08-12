@@ -1,0 +1,11 @@
+<map id="_cam_entry" name="_cam_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,5,178,31"/>
+<area shape="rect" id="Node000004" href="$struct__peripheral__driver__extension.html" title=" " alt="" coords="5,93,145,133"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="104,41,92,56,84,75,80,93,75,92,79,73,88,53,100,38"/>
+<area shape="rect" id="Node000002" href="$struct__devobj.html" title=" " alt="" coords="112,284,185,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,271,162,259,175,202,182,155,180,110,162,56,154,43,143,33,147,29,158,40,167,54,185,109,188,156,180,203,167,261,163,273"/>
+<area shape="rect" id="Node000003" href="$struct__pdrvr.html" title=" " alt="" coords="83,196,145,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,234,128,259,142,282,137,285,124,261,116,236"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="101,184,81,134,86,132,106,182"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="57,146,54,159,56,171,68,184,84,194,81,199,65,188,52,173,48,159,51,145"/>
+</map>

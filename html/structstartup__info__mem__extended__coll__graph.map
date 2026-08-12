@@ -1,0 +1,7 @@
+<map id="startup_info_mem_extended" name="startup_info_mem_extended">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,215,207"/>
+<area shape="rect" id="Node000002" href="$structstartup__info__mem.html" title=" " alt="" coords="39,93,181,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,133,113,181,107,181,107,133"/>
+<area shape="rect" id="Node000003" href="$structstartup__info__hdr.html" title=" " alt="" coords="46,5,174,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,45,113,93,107,93,107,45"/>
+</map>

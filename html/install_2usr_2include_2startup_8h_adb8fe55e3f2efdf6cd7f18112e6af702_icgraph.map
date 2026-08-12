@@ -1,0 +1,12 @@
+<map id="strtopaddr" name="strtopaddr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,31,541,56"/>
+<area shape="rect" id="Node000002" href="$getsize_8c.html#ab9f6d85a8140e616e6ab5a417a9ead42" title=" " alt="" coords="335,31,404,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,46,404,46,404,41,438,41"/>
+<area shape="rect" id="Node000003" href="$startup_2lib_2common__options_8c.html#ae5e6d80f19f9ceaffdef7d6b67cf51e3" title=" " alt="" coords="108,5,287,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,39,283,33,284,28,321,34"/>
+<area shape="rect" id="Node000005" href="$init__system__private_8c.html#a27686aa00795da8cd3259a73be9cbbe7" title=" " alt="" coords="122,55,273,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="321,53,273,59,272,54,321,47"/>
+<area shape="rect" id="Node000004" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,35,61,42,60,37,101,30"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="108,57,60,50,61,45,109,52"/>
+</map>

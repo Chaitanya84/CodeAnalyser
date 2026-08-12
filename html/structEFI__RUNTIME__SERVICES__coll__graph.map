@@ -1,0 +1,13 @@
+<map id="EFI_RUNTIME_SERVICES" name="EFI_RUNTIME_SERVICES">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,137,509,163"/>
+<area shape="rect" id="Node000002" href="$structEFI__TABLE__HEADER.html" title=" " alt="" coords="5,5,156,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,36,175,74,255,111,300,125,345,135,343,140,298,130,253,116,173,79,108,40"/>
+<area shape="rect" id="Node000003" href="$structEFI__TIME__CAPABILITIES.html" title=" " alt="" coords="180,5,355,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,42,303,77,334,111,356,125,379,135,377,140,353,130,331,115,299,80,276,44"/>
+<area shape="rect" id="Node000004" href="$structEFI__TIME.html" title=" " alt="" coords="379,5,460,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="422,44,422,137,417,137,417,44"/>
+<area shape="rect" id="Node000005" href="$structEFI__MEMORY__DESCRIPTOR.html" title=" " alt="" coords="485,5,682,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="560,41,436,139,432,135,556,37"/>
+<area shape="rect" id="Node000006" href="$structEFI__GUID.html" title=" " alt="" coords="706,5,789,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="727,42,679,80,648,100,616,116,563,133,510,143,509,138,562,128,614,111,646,95,675,76,724,38"/>
+</map>

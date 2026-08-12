@@ -1,0 +1,7 @@
+<map id="gic_v2_set_intr_trig_mode" name="gic_v2_set_intr_trig_mode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,199,56"/>
+<area shape="rect" id="Node000002" href="$gic__v2_8c.html#a4202f5ba1354726914a8c5852796be33" title=" " alt="" coords="247,5,380,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,29,233,25,234,30,199,34"/>
+<area shape="rect" id="Node000003" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="281,55,346,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,52,267,59,267,65,199,57"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="dwc_i2c_parseopts" name="dwc_i2c_parseopts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="361,5,507,31"/>
+<area shape="rect" id="Node000002" href="$i2c_2dwc_2init_8c.html#a9b12111a98ebd80ef163a60917f29563" title=" " alt="" coords="211,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,21,314,21,314,15,347,15"/>
+<area shape="rect" id="Node000003" href="$lib_8c.html#a951e334fe2879d1e948d4880e50cdc71" title=" " alt="" coords="5,5,163,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,21,163,21,163,15,197,15"/>
+</map>

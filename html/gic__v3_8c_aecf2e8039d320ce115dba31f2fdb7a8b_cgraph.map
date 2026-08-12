@@ -1,0 +1,7 @@
+<map id="gic_v3_spi_add_entry" name="gic_v3_spi_add_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,168,56"/>
+<area shape="rect" id="Node000002" href="$gic__v3_8c.html#ab0b455d52773ec712cac7791712ce624" title=" " alt="" coords="216,5,349,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,30,202,26,203,31,169,35"/>
+<area shape="rect" id="Node000003" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="250,55,315,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,51,237,59,236,64,168,56"/>
+</map>

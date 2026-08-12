@@ -1,0 +1,5 @@
+<map id="dw_prepare_for_transfer" name="dw_prepare_for_transfer">
+<area shape="rect" id="Node000001" title="Prepare for SPI exchange." alt="" coords="5,5,187,31"/>
+<area shape="rect" id="Node000002" href="$dwc-spi_8c.html#a40fd4775228d002ad47ee1cc6f037fc2" title="Enable Designware SPI device." alt="" coords="235,5,353,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,15,221,15,221,21,187,21"/>
+</map>

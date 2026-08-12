@@ -1,0 +1,5 @@
+<map id="pwm_fan_init" name="pwm_fan_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,5,219,31"/>
+<area shape="rect" id="Node000002" href="$support_2bcm2712_2fan_2main_8c.html#a638b85ceffac097c2aa79b76ba8c055e" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

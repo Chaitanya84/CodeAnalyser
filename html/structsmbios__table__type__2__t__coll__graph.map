@@ -1,0 +1,5 @@
+<map id="smbios_table_type_2_t" name="smbios_table_type_2_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,177,119"/>
+<area shape="rect" id="Node000002" href="$structsmbios__header__t.html" title=" " alt="" coords="25,5,158,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,45,94,93,89,93,89,45"/>
+</map>

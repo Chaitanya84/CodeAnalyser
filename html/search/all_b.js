@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['kercall_5fsequence_0',['kercall_sequence',['../install_2usr_2include_2aarch64_2cpu__startup_8h.html#a597d5554da6fe815717e92cf442e5570',1,'KERCALL_SEQUENCE:&#160;cpu_startup.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2cpu__startup_8h.html#a597d5554da6fe815717e92cf442e5570',1,'KERCALL_SEQUENCE:&#160;cpu_startup.h']]],
+  ['key_5fmac_1',['key_mac',['../struct__mmcsd__rpmb__frame.html#a20d0e7ab0a06da96556ddf59d71bac98',1,'_mmcsd_rpmb_frame']]],
+  ['kick_5ftime_2',['kick_time',['../structwdt__init__t.html#adabb4b657c3486e1f848b475f54bce87',1,'wdt_init_t']]],
+  ['kilo_3',['kilo',['../install_2usr_2include_2startup_8h.html#a724a78fb3fddde0a0f0df8086fdedba9',1,'KILO:&#160;startup.h'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a724a78fb3fddde0a0f0df8086fdedba9',1,'KILO:&#160;startup.h']]],
+  ['kprintf_4',['kprintf',['../install_2usr_2include_2startup_8h.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c']]],
+  ['kprintf_2ec_5',['kprintf.c',['../kprintf_8c.html',1,'']]],
+  ['ksnprintf_6',['ksnprintf',['../install_2usr_2include_2startup_8h.html#a376f2f21435d07306fe8bc6c08ef70bb',1,'ksnprintf(char *buff, const size_t num, const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#afe109a86cd885da7b69de673456ac782',1,'ksnprintf(char *const buff, const size_t num, const char *const fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a376f2f21435d07306fe8bc6c08ef70bb',1,'ksnprintf(char *buff, const size_t num, const char *fmt,...):&#160;kprintf.c']]],
+  ['ksprintf_7',['ksprintf',['../install_2usr_2include_2startup_8h.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c']]]
+];

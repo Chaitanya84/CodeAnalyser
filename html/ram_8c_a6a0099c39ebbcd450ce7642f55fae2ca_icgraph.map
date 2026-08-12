@@ -1,0 +1,11 @@
+<map id="find_top_ram_aligned" name="find_top_ram_aligned">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,31,624,56"/>
+<area shape="rect" id="Node000002" href="$ram_8c.html#a5b22f0282c710a7371512536f5af2bbc" title=" " alt="" coords="307,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,33,413,28,414,23,448,27"/>
+<area shape="rect" id="Node000003" href="$ram_8c.html#aac73d480e9bc053be1ce32af42ef72c5" title=" " alt="" coords="308,55,412,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,59,413,63,412,58,447,53"/>
+<area shape="rect" id="Node000004" href="$init__system__private_8c.html#a27686aa00795da8cd3259a73be9cbbe7" title=" " alt="" coords="108,55,259,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="294,70,259,70,259,65,294,65"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,70,60,70,60,65,94,65"/>
+</map>

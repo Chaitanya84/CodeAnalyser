@@ -1,0 +1,32 @@
+<map id="board_find_efi_smbios_by_type" name="board_find_efi_smbios_by_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,126,172,166"/>
+<area shape="rect" id="Node000002" href="$board__find__efi__smbios_8c.html#a5075d3205bc7614d72635611eb9a97a6" title=" " alt="" coords="220,97,387,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,132,206,127,206,133,173,137"/>
+<area shape="rect" id="Node000014" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="271,161,336,187"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="173,154,257,165,257,171,172,160"/>
+<area shape="rect" id="Node000003" href="$as__add_8c.html#a4e3a593ad001471b64b2da99157a1186" title=" " alt="" coords="474,53,542,79"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,94,460,75,461,80,385,99"/>
+<area shape="rect" id="Node000012" href="$as__find_8c.html#a7bfa34d44fa62e8dbaa40bd0cb283148" title=" " alt="" coords="637,104,705,129"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="387,114,624,114,624,119,387,119"/>
+<area shape="rect" id="Node000013" href="$uefi_8c.html#acf1bc897c10b57f05a31b3180c46ee3f" title=" " alt="" coords="435,155,581,180"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="385,134,443,149,442,154,384,139"/>
+<area shape="rect" id="Node000004" href="$as__add64_8c.html#ad596efbd1978c66cf00aecf254ea2c46" title=" " alt="" coords="629,53,713,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="542,71,616,72,616,77,542,76"/>
+<area shape="poly" id="edge11_Node000004_Node000003" title=" " alt="" coords="629,61,556,60,556,55,629,55"/>
+<area shape="rect" id="Node000005" href="$strings_8c.html#ab839c1659c6cf701874560d3540ffdc4" title=" " alt="" coords="761,53,852,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,63,747,63,747,69,714,69"/>
+<area shape="rect" id="Node000006" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="900,53,1069,79"/>
+<area shape="poly" id="edge12_Node000004_Node000006" title=" " alt="" coords="708,51,761,38,803,35,845,37,921,48,921,53,844,42,803,40,762,43,709,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="852,63,886,63,886,69,852,69"/>
+<area shape="rect" id="Node000007" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="1117,55,1259,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1069,64,1104,64,1104,69,1069,69"/>
+<area shape="rect" id="Node000008" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="1159,104,1217,129"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1037,76,1146,104,1145,109,1036,81"/>
+<area shape="rect" id="Node000010" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="1141,5,1235,31"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="1039,51,1127,30,1128,35,1040,56"/>
+<area shape="rect" id="Node000009" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="1307,104,1403,129"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1217,114,1293,114,1293,119,1217,119"/>
+<area shape="rect" id="Node000011" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="1315,5,1394,31"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1235,15,1302,15,1302,21,1235,21"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="706,114,1146,114,1146,119,706,119"/>
+</map>

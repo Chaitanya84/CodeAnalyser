@@ -1,0 +1,13 @@
+<map id="sdio_disconnect" name="sdio_disconnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,132,56"/>
+<area shape="rect" id="Node000002" href="$base_8c.html#af4bceeada4b045fd2e4149d17f4ed627" title=" " alt="" coords="180,31,313,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,41,166,41,166,46,132,46"/>
+<area shape="rect" id="Node000003" href="$__main_8c.html#a8dec7c95227ff149687066cf04029191" title=" " alt="" coords="389,5,445,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,31,375,21,375,27,314,36"/>
+<area shape="rect" id="Node000006" href="$internal_8h.html#a9528b03ee1f9efd76d79eaec0e44a61a" title=" " alt="" coords="361,55,472,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="314,50,348,55,347,60,313,55"/>
+<area shape="rect" id="Node000004" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="520,5,577,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,15,506,15,506,21,445,21"/>
+<area shape="rect" id="Node000005" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="625,5,721,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="578,15,612,15,612,21,578,21"/>
+</map>

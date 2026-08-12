@@ -1,0 +1,9 @@
+<map id="dwc_i2c_handle_common_option" name="dwc_i2c_handle_common_option">
+<area shape="rect" id="Node000001" title=" " alt="" coords="555,5,744,45"/>
+<area shape="rect" id="Node000002" href="$i2c_2dwc_2aarch64_2rpi5_8le_2options_8c.html#a0571ee0c80b2b3527ab9dfbb24181f74" title=" " alt="" coords="361,13,507,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,28,507,28,507,23,541,23"/>
+<area shape="rect" id="Node000003" href="$i2c_2dwc_2init_8c.html#a9b12111a98ebd80ef163a60917f29563" title=" " alt="" coords="211,13,313,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,28,314,28,314,23,347,23"/>
+<area shape="rect" id="Node000004" href="$lib_8c.html#a951e334fe2879d1e948d4880e50cdc71" title=" " alt="" coords="5,13,163,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,28,163,28,163,23,197,23"/>
+</map>
