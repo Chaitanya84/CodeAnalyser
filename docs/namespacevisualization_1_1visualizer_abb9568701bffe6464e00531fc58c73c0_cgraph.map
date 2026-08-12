@@ -1,0 +1,9 @@
+<map id="visualization.visualizer.build_figure" name="visualization.visualizer.build_figure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,212,109"/>
+<area shape="rect" id="Node000002" href="$namespacevisualization_1_1visualizer.html#a9e0dcc1512052d17f05d2c3c1cec3666" title=" " alt="" coords="260,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,67,258,46,260,51,185,72"/>
+<area shape="rect" id="Node000003" href="$namespacevisualization_1_1visualizer.html#a8057cea89727dfd979ff68fd2b25487d" title=" " alt="" coords="260,69,435,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,87,246,87,246,92,212,92"/>
+<area shape="rect" id="Node000004" href="$namespacevisualization_1_1visualizer.html#a1de55498d174ab0969517c65c49a31b4" title=" " alt="" coords="260,133,435,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,107,260,127,258,132,183,112"/>
+</map>

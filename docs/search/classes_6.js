@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['fdt_5finfo_0',['fdt_info',['../structfdt__info.html',1,'']]],
-  ['feature_5fheader_1',['feature_header',['../structfeature__header.html',1,'']]],
-  ['formatted_5fcapacity_5fdescriptor_2',['formatted_capacity_descriptor',['../structformatted__capacity__descriptor.html',1,'']]]
+  ['sourceparser_0',['SourceParser',['../classanalyzer_1_1parser_1_1SourceParser.html',1,'analyzer::parser']]],
+  ['symboltable_1',['SymbolTable',['../classanalyzer_1_1symbol__table_1_1SymbolTable.html',1,'analyzer::symbol_table']]]
 ];

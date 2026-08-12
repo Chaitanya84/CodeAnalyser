@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['kprintf_0',['kprintf',['../install_2usr_2include_2startup_8h.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a199a1f701f4cc4fd1c3ff7903a102d7a',1,'kprintf(const char *fmt,...):&#160;kprintf.c']]],
-  ['ksnprintf_1',['ksnprintf',['../install_2usr_2include_2startup_8h.html#a376f2f21435d07306fe8bc6c08ef70bb',1,'ksnprintf(char *buff, const size_t num, const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#afe109a86cd885da7b69de673456ac782',1,'ksnprintf(char *const buff, const size_t num, const char *const fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a376f2f21435d07306fe8bc6c08ef70bb',1,'ksnprintf(char *buff, const size_t num, const char *fmt,...):&#160;kprintf.c']]],
-  ['ksprintf_2',['ksprintf',['../install_2usr_2include_2startup_8h.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c'],['../kprintf_8c.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a0c0f907e8768215d14fa66746de08488',1,'ksprintf(char *buff, const char *fmt,...):&#160;kprintf.c']]]
+  ['main_0',['main',['../namespacemain.html#a91f01b27d895933134a55efaf736e808',1,'main.main()'],['../main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp']]]
 ];
