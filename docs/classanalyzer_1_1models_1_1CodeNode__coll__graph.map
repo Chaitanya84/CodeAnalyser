@@ -1,0 +1,7 @@
+<map id="analyzer.models.CodeNode" name="analyzer.models.CodeNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,205,148"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,99,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,44,57,71,64,98,73,110,86,120,82,124,69,114,59,100,52,71,53,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="128,5,176,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,45,125,100,114,124,109,121,120,98,141,43"/>
+</map>

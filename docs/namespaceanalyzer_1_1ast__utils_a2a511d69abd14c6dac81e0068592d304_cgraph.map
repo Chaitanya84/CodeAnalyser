@@ -1,0 +1,9 @@
+<map id="analyzer.ast_utils.collect_syntax_errors" name="analyzer.ast_utils.collect_syntax_errors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,188,103"/>
+<area shape="rect" id="Node000002" href="$namespaceanalyzer_1_1ast__utils.html#abecc5a9e063d8cb622583a24394f41ff" title=" " alt="" coords="251,5,415,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,60,237,46,238,51,180,65"/>
+<area shape="rect" id="Node000003" href="$namespaceanalyzer_1_1ast__utils.html#aad4e73b7fa0c13ca6bbaa2fc931d564d" title=" " alt="" coords="236,70,431,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,80,222,80,222,85,188,85"/>
+<area shape="rect" id="Node000004" href="$namespaceanalyzer_1_1ast__utils.html#a2e99a113942cd5e8dc6146b576110133" title=" " alt="" coords="252,120,415,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,100,239,115,238,120,179,105"/>
+</map>

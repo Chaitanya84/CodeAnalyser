@@ -1,5 +1,5 @@
 .venv
 __pycache__/
 *.pyc
-/home/cp/CodeParser/docs/html
-/home/cp/CodeParser/docs/latex
+/docs/html
+/docs/latex

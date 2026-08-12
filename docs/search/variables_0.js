@@ -1,14 +1,6 @@
 var searchData=
 [
-  ['_5f32_0',['_32',['../union__EEhdr__t.html#af9eb5f4594ded9cf65711ec7a3ca825a',1,'_EEhdr_t::_32'],['../union__EPhdr__t.html#a6754bdb819e561477e11209fe707f941',1,'_EPhdr_t::_32']]],
-  ['_5f64_1',['_64',['../union__EPhdr__t.html#a05e76f76a3010e9f34f026c556acbc0b',1,'_EPhdr_t::_64'],['../union__EEhdr__t.html#a8aed2b6803ffddab1cca8faaa0b245c8',1,'_EEhdr_t::_64']]],
-  ['_5f_5faddr_2',['__addr',['../install_2usr_2include_2arm_2inout_8h.html#a65652900fa98ad83848dfbebc056b558',1,'__addr:&#160;inout.h'],['../src_2hardware_2startup_2lib_2public_2arm_2inout_8h.html#adee775738a499b8d955506fa14510091',1,'__addr:&#160;inout.h']]],
-  ['_5f_5fdata_3',['__data',['../install_2usr_2include_2aarch64_2gic_8h.html#a386cd248ab52e93670fa493a04d25bf7',1,'__data:&#160;gic.h'],['../install_2usr_2include_2arm_2inout_8h.html#ae5f1a03f4384a48046eddd7a5063c64b',1,'__data:&#160;inout.h'],['../src_2hardware_2startup_2lib_2public_2aarch64_2gic_8h.html#a0faeeffd9464105241e7c543750260dc',1,'__data:&#160;gic.h'],['../src_2hardware_2startup_2lib_2public_2arm_2inout_8h.html#ae5f1a03f4384a48046eddd7a5063c64b',1,'__data:&#160;inout.h']]],
-  ['_5f_5flen_4',['__len',['../src_2hardware_2startup_2lib_2public_2arm_2inout_8h.html#a8e90d120fa15ddeb7bfebff8939c6053',1,'__len:&#160;inout.h'],['../install_2usr_2include_2arm_2inout_8h.html#a44ade0d4703229700b5fc71d60787478',1,'__len:&#160;inout.h']]],
-  ['_5f_5fpage_5fsize_5',['__page_size',['../install_2usr_2include_2aarch64_2cpu__startup_8h.html#a73eff87a4602e5570e4fd3155ea5d9dd',1,'__page_size:&#160;cpu_startup.c'],['../cpu__startup_8c.html#a73eff87a4602e5570e4fd3155ea5d9dd',1,'__page_size:&#160;cpu_startup.c'],['../src_2hardware_2startup_2lib_2public_2aarch64_2cpu__startup_8h.html#a73eff87a4602e5570e4fd3155ea5d9dd',1,'__page_size:&#160;cpu_startup.c']]],
-  ['_5f_5fprogname_6',['__progname',['../sim__sdmmc_8h.html#acf348b7efbc797658885c8bfc80afdee',1,'__progname:&#160;sim_sdmmc.h'],['../ssp_8c.html#af9e2a55f1ac28c987c5df93bc9b5cc24',1,'__progname:&#160;ssp.c']]],
-  ['_5fargc_7',['_argc',['../install_2usr_2include_2startup_8h.html#a038ff3ebc8f1b3be674bdf24e178140c',1,'_argc:&#160;_main.c'],['../__main_8c.html#a038ff3ebc8f1b3be674bdf24e178140c',1,'_argc:&#160;_main.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#a038ff3ebc8f1b3be674bdf24e178140c',1,'_argc:&#160;_main.c']]],
-  ['_5fargv_8',['_argv',['../install_2usr_2include_2startup_8h.html#aff61fe53bf74f31923195e008ce82193',1,'_argv:&#160;_main.c'],['../__main_8c.html#aff61fe53bf74f31923195e008ce82193',1,'_argv:&#160;_main.c'],['../src_2hardware_2startup_2lib_2public_2startup_8h.html#aff61fe53bf74f31923195e008ce82193',1,'_argv:&#160;_main.c']]],
-  ['_5frsvd_9',['_rsvd',['../union__xpt__device.html#a29a32a857bcd141a887320d19c8deb51',1,'_xpt_device']]],
-  ['_5fsyspage_5fptr_10',['_syspage_ptr',['../__main_8c.html#a4727f8ed670c6fbd0642cc75e10d62d4',1,'_main.c']]]
+  ['_5fidentifier_5ftypes_0',['_IDENTIFIER_TYPES',['../namespaceanalyzer_1_1grammar__adapter.html#a9eda5294fab371ab23d28c156e683b76',1,'analyzer::grammar_adapter']]],
+  ['_5flanguages_1',['_languages',['../classanalyzer_1_1parser_1_1SourceParser.html#a6c52fee5004c80650ee0b783160ee6aa',1,'analyzer::parser::SourceParser']]],
+  ['_5fwrapper_5fdeclarators_2',['_WRAPPER_DECLARATORS',['../namespaceanalyzer_1_1grammar__adapter.html#a2726742e90bb7c6e3de4c1b80236ad86',1,'analyzer::grammar_adapter']]]
 ];

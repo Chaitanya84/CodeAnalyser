@@ -1,0 +1,7 @@
+<map id="automotive::Engine::ignite" name="automotive::Engine::ignite">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,155,77"/>
+<area shape="rect" id="Node000002" href="$classautomotive_1_1Device.html#ae73d7a72615c70ee5929a570d60216b0" title=" " alt="" coords="203,5,353,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,43,188,37,189,42,156,48"/>
+<area shape="rect" id="Node000003" href="$classautomotive_1_1Device.html#ac8def366af75aeec0b6ffddfa6f37737" title=" " alt="" coords="203,69,353,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,67,189,72,188,78,155,72"/>
+</map>

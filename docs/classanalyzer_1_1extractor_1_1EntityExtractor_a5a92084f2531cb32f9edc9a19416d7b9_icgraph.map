@@ -1,0 +1,15 @@
+<map id="analyzer.extractor.EntityExtractor._process_declaration" name="analyzer.extractor.EntityExtractor._process_declaration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,29,727,69"/>
+<area shape="rect" id="Node000002" href="$classanalyzer_1_1extractor_1_1EntityExtractor.html#a62e049d1254183d06753cd1b4f561d18" title=" " alt="" coords="276,69,457,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,72,458,77,457,72,491,67"/>
+<area shape="poly" id="edge7_Node000002_Node000002" title=" " alt="" coords="409,58,394,51,367,48,343,50,328,55,323,61,326,68,321,70,318,60,325,50,342,45,367,43,395,46,411,53"/>
+<area shape="rect" id="Node000003" href="$classanalyzer_1_1extractor_1_1EntityExtractor.html#aea1b546dd8e078701dae43bdeeebbb1d" title=" " alt="" coords="26,5,207,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="262,74,166,48,168,43,263,69"/>
+<area shape="rect" id="Node000004" href="$classanalyzer_1_1extractor_1_1EntityExtractor.html#a89da07e7c9a92b51e19b9d52d00ae9fc" title=" " alt="" coords="5,69,228,109"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="262,101,228,101,228,96,262,96"/>
+<area shape="rect" id="Node000005" href="$classanalyzer_1_1extractor_1_1EntityExtractor.html#a293b87f4f882320678606db4ab6e7a0c" title=" " alt="" coords="26,133,207,173"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="275,115,196,136,195,131,274,110"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="221,23,457,31,505,34,505,40,457,36,221,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="221,40,317,67,315,72,220,46"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="242,78,276,78,276,83,241,83"/>
+</map>
