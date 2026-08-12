@@ -1,0 +1,7 @@
+<map id="dwc_i2c_enable" name="dwc_i2c_enable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,131,56"/>
+<area shape="rect" id="Node000002" href="$i2c_2dwc_2init_8c.html#aaaed337c47775898f28afcd39ec11fd4" title=" " alt="" coords="181,5,302,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,32,166,26,167,31,131,37"/>
+<area shape="rect" id="Node000003" href="$i2c_2dwc_2init_8c.html#aadab875fa32a043e747dde82c372a262" title=" " alt="" coords="179,55,304,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,49,166,54,165,59,131,55"/>
+</map>

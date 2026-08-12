@@ -1,0 +1,23 @@
+<map id="hwi_default" name="hwi_default">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,104,80"/>
+<area shape="rect" id="Node000002" href="$hwi__alloc_8c.html#a7c3192e48c6d117d49ee3ff7d4a781fe" title=" " alt="" coords="152,55,272,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,65,138,65,138,70,104,70"/>
+<area shape="rect" id="Node000003" href="$strings_8c.html#ab839c1659c6cf701874560d3540ffdc4" title=" " alt="" coords="479,29,569,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,60,465,44,465,49,272,65"/>
+<area shape="rect" id="Node000010" href="$hwi__alloc_8c.html#a08834a7209fd11ff04e97a3e022f830c" title=" " alt="" coords="320,80,431,105"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="273,74,307,79,306,85,272,79"/>
+<area shape="rect" id="Node000004" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="617,55,787,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="570,46,604,51,603,56,569,51"/>
+<area shape="rect" id="Node000005" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="835,5,976,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="754,52,839,31,840,37,756,57"/>
+<area shape="rect" id="Node000006" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="877,55,934,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="787,65,863,65,863,70,787,70"/>
+<area shape="rect" id="Node000008" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="859,104,952,129"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="756,77,846,100,845,105,754,83"/>
+<area shape="rect" id="Node000007" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="1024,55,1120,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="934,65,1011,65,1011,70,934,70"/>
+<area shape="rect" id="Node000009" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="1033,104,1111,129"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="952,114,1019,114,1019,119,952,119"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="413,77,472,57,474,62,414,82"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="431,86,603,72,604,78,431,91"/>
+</map>

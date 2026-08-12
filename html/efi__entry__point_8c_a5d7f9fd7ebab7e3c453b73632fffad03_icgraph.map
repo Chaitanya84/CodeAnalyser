@@ -1,0 +1,5 @@
+<map id="efi_walk_map" name="efi_walk_map">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,5,289,31"/>
+<area shape="rect" id="Node000002" href="$init__raminfo__efi_8c.html#af33595c60ed2185443b82f007651b41c" title=" " alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,21,130,21,130,15,164,15"/>
+</map>

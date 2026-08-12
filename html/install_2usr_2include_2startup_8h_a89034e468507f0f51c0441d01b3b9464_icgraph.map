@@ -1,0 +1,16 @@
+<map id="avoid_ram" name="avoid_ram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,104,425,129"/>
+<area shape="rect" id="Node000002" href="$__main_8c.html#abaa8f446abb569a6f850a328569bec9f" title=" " alt="" coords="166,5,229,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,96,323,69,285,44,257,33,228,26,229,20,258,28,288,40,326,65,358,92"/>
+<area shape="rect" id="Node000003" href="$bcm2712__init__raminfo_8c.html#a4e92811966f6dec35c74b59abffdb420" title=" " alt="" coords="113,55,281,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,103,286,94,245,83,246,77,287,89,322,98"/>
+<area shape="rect" id="Node000005" href="$startup_2lib_2common__options_8c.html#ae5e6d80f19f9ceaffdef7d6b67cf51e3" title=" " alt="" coords="108,104,287,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="321,119,287,119,287,114,321,114"/>
+<area shape="rect" id="Node000006" href="$init__raminfo__efi_8c.html#af33595c60ed2185443b82f007651b41c" title=" " alt="" coords="135,153,259,179"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="322,135,246,156,245,151,321,130"/>
+<area shape="rect" id="Node000007" href="$init__raminfo__fdt_8c.html#a1c099f8e3b0ca90fecdd50e5d38eb521" title=" " alt="" coords="134,203,261,228"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="358,141,326,168,288,192,256,205,254,200,285,188,323,163,355,137"/>
+<area shape="rect" id="Node000004" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,80,60,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,85,61,91,60,86,101,80"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="96,105,60,99,61,94,97,99"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="dwc_i2c_init_registers" name="dwc_i2c_init_registers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="759,31,925,56"/>
+<area shape="rect" id="Node000002" href="$i2c_2dwc_2init_8c.html#a9b12111a98ebd80ef163a60917f29563" title=" " alt="" coords="602,5,705,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,33,704,27,705,22,746,28"/>
+<area shape="rect" id="Node000004" href="$wait_8c.html#a57a2f54b9a17391515523b6d0587527e" title=" " alt="" coords="596,55,711,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="746,58,711,63,710,57,745,53"/>
+<area shape="rect" id="Node000003" href="$lib_8c.html#a951e334fe2879d1e948d4880e50cdc71" title=" " alt="" coords="5,55,163,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="588,21,417,27,314,34,211,45,140,57,139,52,210,39,314,29,417,22,588,16"/>
+<area shape="rect" id="Node000005" href="$i2c_2dwc_2init_8c.html#a2f02c9828a806812b2450bce679d0c26" title=" " alt="" coords="384,55,535,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="582,70,535,70,535,65,582,65"/>
+<area shape="rect" id="Node000008" href="$wait_8c.html#ac6802bb54e56c325afc7640d4b9d341e" title=" " alt="" coords="371,104,548,129"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="590,86,511,106,510,101,589,81"/>
+<area shape="rect" id="Node000006" href="$recv_8c.html#ae659f43de17b695389ddbf4928bc5cd5" title=" " alt="" coords="212,104,321,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="397,86,318,106,317,101,395,81"/>
+<area shape="rect" id="Node000007" href="$send_8c.html#ae600bc74e8531719bf544e1f575b69f3" title=" " alt="" coords="211,55,323,80"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="370,70,323,70,323,65,370,65"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="205,103,131,83,133,78,207,98"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="197,70,163,70,163,65,197,65"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="357,119,322,119,322,114,357,114"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="395,103,317,83,318,78,397,98"/>
+</map>

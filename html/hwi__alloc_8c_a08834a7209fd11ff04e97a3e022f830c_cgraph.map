@@ -1,0 +1,18 @@
+<map id="hwi_alloc_tag" name="hwi_alloc_tag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,116,80"/>
+<area shape="rect" id="Node000002" href="$strings_8c.html#ab839c1659c6cf701874560d3540ffdc4" title=" " alt="" coords="164,29,255,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,55,150,49,151,55,117,61"/>
+<area shape="rect" id="Node000003" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="303,55,472,80"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="116,65,289,65,289,70,116,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,46,289,51,289,56,255,51"/>
+<area shape="rect" id="Node000004" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="520,5,661,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="440,52,524,31,525,37,441,57"/>
+<area shape="rect" id="Node000005" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="562,55,619,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="472,65,548,65,548,70,472,70"/>
+<area shape="rect" id="Node000007" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="544,104,637,129"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="441,77,531,100,530,105,440,83"/>
+<area shape="rect" id="Node000006" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="709,55,805,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="619,65,696,65,696,70,619,70"/>
+<area shape="rect" id="Node000008" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="718,104,797,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="638,114,704,114,704,119,638,119"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="hypervisor_syspage_init" name="hypervisor_syspage_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,185,56"/>
+<area shape="rect" id="Node000002" href="$hypervisor_8c.html#a9068f2d53c145ec4a1b7e0d36881a8f3" title=" " alt="" coords="233,5,448,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,31,219,28,220,33,186,37"/>
+<area shape="rect" id="Node000003" href="$syspage__memory_8c.html#a9585daa16eb09d7442c5737bf9a7c7f5" title=" " alt="" coords="262,55,419,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,49,249,56,248,61,185,55"/>
+<area shape="rect" id="Node000004" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="496,55,665,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,65,482,65,482,70,420,70"/>
+<area shape="rect" id="Node000005" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="713,5,855,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="633,52,717,31,718,37,634,57"/>
+<area shape="rect" id="Node000006" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="755,55,813,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="665,65,742,65,742,70,665,70"/>
+<area shape="rect" id="Node000008" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="737,104,831,129"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="634,77,725,100,724,105,633,83"/>
+<area shape="rect" id="Node000007" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="903,55,999,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="813,65,889,65,889,70,813,70"/>
+<area shape="rect" id="Node000009" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="911,104,990,129"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="831,114,898,114,898,119,831,119"/>
+</map>

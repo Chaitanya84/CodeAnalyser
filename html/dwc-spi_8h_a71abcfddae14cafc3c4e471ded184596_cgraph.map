@@ -1,0 +1,5 @@
+<map id="dw_spi_deselect_slave" name="dw_spi_deselect_slave">
+<area shape="rect" id="Node000001" title="De&#45;select SPI slaves." alt="" coords="5,5,176,31"/>
+<area shape="rect" id="Node000002" href="$dwc-spi_8c.html#a077df2ab5cf46bca42e440516f34230d" title="Check if SPI is busy." alt="" coords="224,5,329,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,15,210,15,210,21,176,21"/>
+</map>

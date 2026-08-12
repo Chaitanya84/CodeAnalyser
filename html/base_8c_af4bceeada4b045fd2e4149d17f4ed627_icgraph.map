@@ -1,0 +1,7 @@
+<map id="_sdio_disconnect" name="_sdio_disconnect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="380,5,513,31"/>
+<area shape="rect" id="Node000002" href="$card_8c.html#abe1d5e5eab3fd83b3b20b742b3b4d914" title=" " alt="" coords="205,5,332,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,21,332,21,332,15,366,15"/>
+<area shape="rect" id="Node000003" href="$sim__sdmmc_8c.html#a9d7d740b075b4109ae52bfe0e1028a69" title=" " alt="" coords="5,5,157,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="192,21,158,21,158,15,192,15"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="init_8250_common" name="init_8250_common">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,31,308,56"/>
+<area shape="rect" id="Node000002" href="$hw__ser8250_8c.html#a4f3a8e69a12af06ed7a36ae954dd049a" title=" " alt="" coords="18,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,33,101,27,101,21,148,28"/>
+<area shape="rect" id="Node000003" href="$hw__ser8250__pci_8c.html#aa5dc23d98e87878eaa0e13681c5d8ba7" title=" " alt="" coords="5,55,113,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,58,114,63,113,57,147,53"/>
+</map>

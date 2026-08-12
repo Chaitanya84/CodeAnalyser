@@ -1,0 +1,11 @@
+<map id="EFI_BOOT_SERVICES" name="EFI_BOOT_SERVICES">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,240,437,265"/>
+<area shape="rect" id="Node000002" href="$structEFI__TABLE__HEADER.html" title=" " alt="" coords="5,5,156,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,42,117,80,148,126,188,174,235,214,262,228,290,237,289,243,260,233,233,218,184,177,144,129,112,82,90,44"/>
+<area shape="rect" id="Node000003" href="$structEFI__MEMORY__DESCRIPTOR.html" title=" " alt="" coords="181,5,378,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,44,272,80,271,125,278,172,285,194,296,214,309,228,325,238,322,242,305,232,292,218,281,196,273,173,266,125,267,80,272,44"/>
+<area shape="rect" id="Node000004" href="$structEFI__GUID.html" title=" " alt="" coords="402,5,485,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,45,434,138,424,185,412,217,400,231,385,242,382,238,396,227,408,215,419,183,428,137,439,44"/>
+<area shape="rect" id="Node000005" href="$structEFI__DEVICE__PATH.html" title=" " alt="" coords="512,5,649,31"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="588,44,591,82,590,129,579,176,568,198,553,218,534,229,506,238,438,249,437,243,505,233,532,224,550,214,564,196,574,175,585,128,586,82,583,45"/>
+</map>

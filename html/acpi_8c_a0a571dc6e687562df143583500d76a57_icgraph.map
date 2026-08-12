@@ -1,0 +1,7 @@
+<map id="acpi_find_table_next" name="acpi_find_table_next">
+<area shape="rect" id="Node000001" title=" " alt="" coords="348,5,504,31"/>
+<area shape="rect" id="Node000002" href="$acpi_8c.html#afe526dbe167b3bfe1792f62766e4f31d" title=" " alt="" coords="180,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,21,300,21,300,15,334,15"/>
+<area shape="rect" id="Node000003" href="$acpi__spcr__parse_8c.html#a5a1b99dd52cdf111597d97a45a5d7d0b" title=" " alt="" coords="5,5,132,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,21,132,21,132,15,166,15"/>
+</map>

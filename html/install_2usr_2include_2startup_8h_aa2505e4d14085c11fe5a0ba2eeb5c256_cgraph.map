@@ -1,0 +1,20 @@
+<map id="hwitag_add_busattr" name="hwitag_add_busattr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,156,80"/>
+<area shape="rect" id="Node000002" href="$hwi__alloc_8c.html#a08834a7209fd11ff04e97a3e022f830c" title=" " alt="" coords="204,55,315,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,65,190,65,190,70,156,70"/>
+<area shape="rect" id="Node000003" href="$strings_8c.html#ab839c1659c6cf701874560d3540ffdc4" title=" " alt="" coords="363,29,453,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,55,348,49,349,55,315,61"/>
+<area shape="rect" id="Node000004" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="501,55,671,80"/>
+<area shape="poly" id="edge9_Node000002_Node000004" title=" " alt="" coords="315,65,488,65,488,70,315,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,46,488,51,487,56,453,51"/>
+<area shape="rect" id="Node000005" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="719,5,860,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="638,52,723,31,724,37,640,57"/>
+<area shape="rect" id="Node000006" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="761,55,818,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="671,65,747,65,747,70,671,70"/>
+<area shape="rect" id="Node000008" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="743,104,836,129"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="640,77,730,100,729,105,638,83"/>
+<area shape="rect" id="Node000007" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="908,55,1004,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="818,65,895,65,895,70,818,70"/>
+<area shape="rect" id="Node000009" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="917,104,995,129"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="836,114,903,114,903,119,836,119"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="invert_timer_freq" name="invert_timer_freq">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,140,31"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="188,5,245,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,15,174,15,174,21,140,21"/>
+<area shape="rect" id="Node000003" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="293,5,389,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,15,280,15,280,21,246,21"/>
+</map>

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['efi_5fboot_5fservices_0',['EFI_BOOT_SERVICES',['../structEFI__BOOT__SERVICES.html',1,'']]],
+  ['efi_5fcapsule_5fheader_1',['EFI_CAPSULE_HEADER',['../structEFI__CAPSULE__HEADER.html',1,'']]],
+  ['efi_5fconfiguration_5ftable_2',['EFI_CONFIGURATION_TABLE',['../structEFI__CONFIGURATION__TABLE.html',1,'']]],
+  ['efi_5fdevice_5fpath_3',['EFI_DEVICE_PATH',['../structEFI__DEVICE__PATH.html',1,'']]],
+  ['efi_5fguid_4',['EFI_GUID',['../structEFI__GUID.html',1,'']]],
+  ['efi_5finput_5fkey_5',['EFI_INPUT_KEY',['../structEFI__INPUT__KEY.html',1,'']]],
+  ['efi_5floaded_5fimage_5fprotocol_6',['EFI_LOADED_IMAGE_PROTOCOL',['../structEFI__LOADED__IMAGE__PROTOCOL.html',1,'']]],
+  ['efi_5fmemory_5fdescriptor_7',['EFI_MEMORY_DESCRIPTOR',['../structEFI__MEMORY__DESCRIPTOR.html',1,'']]],
+  ['efi_5fopen_5fprotocol_5finformation_5fentry_8',['EFI_OPEN_PROTOCOL_INFORMATION_ENTRY',['../structEFI__OPEN__PROTOCOL__INFORMATION__ENTRY.html',1,'']]],
+  ['efi_5fruntime_5fservices_9',['EFI_RUNTIME_SERVICES',['../structEFI__RUNTIME__SERVICES.html',1,'']]],
+  ['efi_5fsimple_5ftext_5finput_5fprotocol_10',['EFI_SIMPLE_TEXT_INPUT_PROTOCOL',['../structEFI__SIMPLE__TEXT__INPUT__PROTOCOL.html',1,'']]],
+  ['efi_5fsimple_5ftext_5foutput_5fprotocol_11',['EFI_SIMPLE_TEXT_OUTPUT_PROTOCOL',['../structEFI__SIMPLE__TEXT__OUTPUT__PROTOCOL.html',1,'']]],
+  ['efi_5fsystem_5ftable_12',['EFI_SYSTEM_TABLE',['../structEFI__SYSTEM__TABLE.html',1,'']]],
+  ['efi_5ftable_5fheader_13',['EFI_TABLE_HEADER',['../structEFI__TABLE__HEADER.html',1,'']]],
+  ['efi_5ftime_14',['EFI_TIME',['../structEFI__TIME.html',1,'']]],
+  ['efi_5ftime_5fcapabilities_15',['EFI_TIME_CAPABILITIES',['../structEFI__TIME__CAPABILITIES.html',1,'']]],
+  ['eisaaccess_16',['EISAAccess',['../struct__sim__bus__access_1_1EISAAccess.html',1,'_sim_bus_access']]]
+];

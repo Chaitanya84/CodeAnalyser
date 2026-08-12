@@ -1,0 +1,5 @@
+<map id="psci_smp_start" name="psci_smp_start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,304,31"/>
+<area shape="rect" id="Node000002" href="$board__smp_8c.html#aea984de764046a2205ac03537ed64da1" title=" " alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,136,21,136,15,170,15"/>
+</map>

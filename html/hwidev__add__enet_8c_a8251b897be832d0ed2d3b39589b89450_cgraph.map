@@ -1,0 +1,42 @@
+<map id="hwidev_add_enet" name="hwidev_add_enet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,141,179"/>
+<area shape="rect" id="Node000002" href="$hwidev__add_8c.html#a3b624b7326cb672484386b3e9996fb04" title=" " alt="" coords="227,29,327,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,151,188,88,239,59,241,63,191,92,95,155"/>
+<area shape="rect" id="Node000012" href="$hwitag__add__common_8c.html#a7fbd88e70c5ff726416901c3881ff001" title=" " alt="" coords="197,103,358,128"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="125,151,212,129,213,134,126,156"/>
+<area shape="rect" id="Node000015" href="$hwitag__add__inputclk_8c.html#a76d154cb4d9d2310a2e1a434c628a2f2" title=" " alt="" coords="413,153,569,179"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="141,163,400,163,400,169,141,169"/>
+<area shape="rect" id="Node000016" href="$install_2usr_2include_2startup_8h.html#a3c673a865c30ff976e7bcd5181c73027" title=" " alt="" coords="201,253,353,279"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="92,177,135,208,190,240,208,247,206,252,188,244,132,212,89,181"/>
+<area shape="rect" id="Node000017" href="$hwitag__add__nicphyaddr_8c.html#a5972d79a6bea90fbc7cb12bb7e69db0a" title=" " alt="" coords="189,204,365,229"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="126,176,213,198,212,203,125,181"/>
+<area shape="rect" id="Node000003" href="$hwi__alloc_8c.html#a7c3192e48c6d117d49ee3ff7d4a781fe" title=" " alt="" coords="431,5,551,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,34,417,24,418,29,328,39"/>
+<area shape="rect" id="Node000004" href="$strings_8c.html#ab839c1659c6cf701874560d3540ffdc4" title=" " alt="" coords="776,55,867,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="552,22,728,46,763,52,762,58,728,51,551,27"/>
+<area shape="rect" id="Node000011" href="$hwi__alloc_8c.html#a08834a7209fd11ff04e97a3e022f830c" title=" " alt="" coords="617,105,728,131"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="543,28,571,40,613,66,648,94,645,98,610,70,568,44,541,33"/>
+<area shape="rect" id="Node000005" href="$syspage__memory_8c.html#ada1cbeae0acf382067355f84807f2584" title=" " alt="" coords="915,80,1084,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="867,71,901,76,901,81,867,76"/>
+<area shape="rect" id="Node000006" href="$callouts_8c.html#a63aa26dad157ac1db575f6caafe24ff1" title=" " alt="" coords="1132,31,1273,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1052,77,1136,57,1137,62,1053,83"/>
+<area shape="rect" id="Node000007" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="1174,80,1231,105"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1084,90,1160,90,1160,95,1084,95"/>
+<area shape="rect" id="Node000009" href="$memmove_8c.html#a4522f53cff2fef09001e4d34227463a9" title=" " alt="" coords="1156,129,1249,155"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="1053,103,1143,125,1142,130,1052,108"/>
+<area shape="rect" id="Node000008" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="1321,80,1417,105"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1231,90,1308,90,1308,95,1231,95"/>
+<area shape="rect" id="Node000010" href="$memcpy_8c.html#a86626f522ec4de77595dfa6b78da483c" title=" " alt="" coords="1330,129,1409,155"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1250,139,1316,139,1316,145,1250,145"/>
+<area shape="poly" id="edge11_Node000011_Node000004" title=" " alt="" coords="710,103,769,82,771,87,712,108"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="728,111,901,98,901,103,728,116"/>
+<area shape="rect" id="Node000013" href="$hwitag__add__location_8c.html#a3dc7c1fa318924b43905abf9bd08cf50" title=" " alt="" coords="413,104,569,129"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="359,113,400,113,400,119,359,119"/>
+<area shape="rect" id="Node000014" href="$hwitag__add__common_8c.html#a8815d3e48428060500aa6279ff7dcf43" title=" " alt="" coords="420,55,563,80"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="334,100,420,80,421,86,335,105"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="569,115,604,115,604,120,569,120"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="563,65,763,65,763,70,563,70"/>
+<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="538,78,614,99,613,104,537,83"/>
+<area shape="poly" id="edge20_Node000015_Node000011" title=" " alt="" coords="539,151,610,132,611,137,541,156"/>
+<area shape="poly" id="edge23_Node000017_Node000011" title=" " alt="" coords="366,218,465,213,518,204,568,189,611,166,646,138,650,143,614,170,570,194,519,209,466,218,366,224"/>
+</map>

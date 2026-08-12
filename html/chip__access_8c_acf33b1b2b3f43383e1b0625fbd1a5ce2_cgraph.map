@@ -1,0 +1,7 @@
+<map id="chip_done" name="chip_done">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,93,56"/>
+<area shape="rect" id="Node000002" href="$map__startup__io_8c.html#a30d9097271410df9fa284781cc6f7761" title=" " alt="" coords="163,5,302,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,35,149,27,150,32,94,40"/>
+<area shape="rect" id="Node000003" href="$map__startup__mem_8c.html#a4e60f968107dcdd427dc4798b0abca4f" title=" " alt="" coords="141,55,324,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,46,128,51,128,56,93,52"/>
+</map>

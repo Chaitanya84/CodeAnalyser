@@ -1,0 +1,5 @@
+<map id="EFI_CONFIGURATION_TABLE" name="EFI_CONFIGURATION_TABLE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,212,119"/>
+<area shape="rect" id="Node000002" href="$structEFI__GUID.html" title=" " alt="" coords="67,5,150,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,45,111,93,106,93,106,45"/>
+</map>

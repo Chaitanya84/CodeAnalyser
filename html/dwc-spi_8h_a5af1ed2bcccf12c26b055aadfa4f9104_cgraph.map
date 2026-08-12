@@ -1,0 +1,5 @@
+<map id="dw_spi_select_slave" name="dw_spi_select_slave">
+<area shape="rect" id="Node000001" title="Select a SPI slave." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$dwc-spi_8c.html#a077df2ab5cf46bca42e440516f34230d" title="Check if SPI is busy." alt="" coords="208,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,15,194,15,194,21,160,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="get_board_serial" name="get_board_serial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,136,56"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#a0c0f907e8768215d14fa66746de08488" title=" " alt="" coords="235,5,307,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,32,221,22,222,27,137,38"/>
+<area shape="rect" id="Node000003" href="$startup_2boards_2bcm_2bcm2712_2mbox_8c.html#a7d63970c598f6eff6e61d7f1a564393c" title=" " alt="" coords="184,55,359,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,48,171,53,170,58,136,54"/>
+</map>

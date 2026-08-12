@@ -1,0 +1,9 @@
+<map id="efi_tweak_cmdline" name="efi_tweak_cmdline">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,149,80"/>
+<area shape="rect" id="Node000002" href="$bootstrap__cmdline_8c.html#a220c6032050ef0048f2272266c5303f2" title=" " alt="" coords="217,5,375,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,52,225,31,226,36,135,57"/>
+<area shape="rect" id="Node000003" href="$efi__entry__point_8c.html#a6a31a3f36909f5c818578d82f3f8ca3d" title=" " alt="" coords="197,55,395,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,65,184,65,184,70,149,70"/>
+<area shape="rect" id="Node000004" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#a1dd8f39df9a9a88d554b3b853cfca1b5" title=" " alt="" coords="241,104,351,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="135,77,228,99,226,104,134,83"/>
+</map>

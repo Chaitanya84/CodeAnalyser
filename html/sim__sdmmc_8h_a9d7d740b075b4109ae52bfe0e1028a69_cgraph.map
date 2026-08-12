@@ -1,0 +1,15 @@
+<map id="sdmmc_sim_detach" name="sdmmc_sim_detach">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,157,56"/>
+<area shape="rect" id="Node000002" href="$card_8c.html#abe1d5e5eab3fd83b3b20b742b3b4d914" title=" " alt="" coords="205,31,332,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,41,192,41,192,46,158,46"/>
+<area shape="rect" id="Node000003" href="$base_8c.html#af4bceeada4b045fd2e4149d17f4ed627" title=" " alt="" coords="380,31,513,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,41,366,41,366,46,332,46"/>
+<area shape="rect" id="Node000004" href="$__main_8c.html#a8dec7c95227ff149687066cf04029191" title=" " alt="" coords="589,5,645,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="513,31,575,21,575,27,514,36"/>
+<area shape="rect" id="Node000007" href="$internal_8h.html#a9528b03ee1f9efd76d79eaec0e44a61a" title=" " alt="" coords="561,55,672,80"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="514,50,548,55,547,60,513,55"/>
+<area shape="rect" id="Node000005" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="720,5,777,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="645,15,706,15,706,21,645,21"/>
+<area shape="rect" id="Node000006" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="825,5,921,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="778,15,812,15,812,21,778,21"/>
+</map>

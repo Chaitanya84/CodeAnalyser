@@ -1,0 +1,7 @@
+<map id="fdt_get_reg_int" name="fdt_get_reg_int">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,125,31"/>
+<area shape="rect" id="Node000002" href="$fdt__get__reg__addr_8c.html#a3e6c90041dbf6da4d0abd10cbe6eb33b" title=" " alt="" coords="173,5,305,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,15,159,15,159,21,126,21"/>
+<area shape="rect" id="Node000003" href="$fdt__get__reg64__cells_8c.html#ae87799ad32bcdc8065075b94ce2acb56" title=" " alt="" coords="353,5,503,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,15,340,15,340,21,306,21"/>
+</map>

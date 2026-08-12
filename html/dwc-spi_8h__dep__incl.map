@@ -1,0 +1,21 @@
+<map id="src/hardware/spi/dwc/dwc&#45;spi.h" name="src/hardware/spi/dwc/dwc&#45;spi.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="644,5,803,45"/>
+<area shape="rect" id="Node000002" href="$dwc__variant_8h.html" title=" " alt="" coords="629,93,818,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,59,726,93,721,93,721,59"/>
+<area shape="rect" id="Node000003" href="$config_8c.html" title=" " alt="" coords="5,181,164,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="615,128,411,151,176,184,165,186,164,181,175,179,410,146,615,123"/>
+<area shape="rect" id="Node000004" href="$devinfo_8c.html" title=" " alt="" coords="188,181,347,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="616,136,358,184,347,186,346,181,358,179,615,131"/>
+<area shape="rect" id="Node000005" href="$drvinfo_8c.html" title=" " alt="" coords="371,181,529,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="651,140,511,184,509,179,649,135"/>
+<area shape="rect" id="Node000006" href="$dwc-spi_8c.html" title=" " alt="" coords="553,181,712,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="695,145,655,183,651,179,692,141"/>
+<area shape="rect" id="Node000007" href="$fini_8c.html" title=" " alt="" coords="736,181,895,221"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="755,141,797,179,793,183,752,145"/>
+<area shape="rect" id="Node000008" href="$spi_2dwc_2init_8c.html" title=" " alt="" coords="919,181,1077,221"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="798,135,939,179,937,184,796,140"/>
+<area shape="rect" id="Node000009" href="$spi_2dwc_2intr_8c.html" title=" " alt="" coords="1101,181,1260,221"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="832,131,1090,179,1102,181,1101,186,1090,184,831,136"/>
+<area shape="rect" id="Node000010" href="$xfer_8c.html" title=" " alt="" coords="1284,181,1443,221"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="832,123,1037,146,1273,179,1284,181,1283,186,1272,184,1037,151,832,128"/>
+</map>

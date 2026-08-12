@@ -1,0 +1,9 @@
+<map id="src/hardware/devb/sdmmc/sim_sdmmc.h" name="src/hardware/devb/sdmmc/sim_sdmmc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,5,443,45"/>
+<area shape="rect" id="Node000002" href="$sim__bs_8c.html" title=" " alt="" coords="5,93,224,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,53,166,96,164,91,281,48"/>
+<area shape="rect" id="Node000003" href="$sim__assd_8c.html" title=" " alt="" coords="248,93,443,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,59,348,93,343,93,343,59"/>
+<area shape="rect" id="Node000004" href="$sim__sdmmc_8c.html" title=" " alt="" coords="467,93,661,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="407,48,517,91,515,96,405,53"/>
+</map>

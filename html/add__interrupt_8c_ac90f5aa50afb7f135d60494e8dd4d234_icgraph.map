@@ -1,0 +1,13 @@
+<map id="add_interrupt" name="add_interrupt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,55,561,80"/>
+<area shape="rect" id="Node000002" href="$add__interrupt_8c.html#aac297c96e8db6510a50f374961bcf35f" title=" " alt="" coords="253,5,404,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,53,375,33,376,28,448,48"/>
+<area shape="rect" id="Node000003" href="$gic__v2_8c.html#abe2d8bb65e6aa900992385c08cd97648" title=" " alt="" coords="283,55,375,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,70,375,70,375,65,438,65"/>
+<area shape="rect" id="Node000006" href="$gic__v3_8c.html#afc88d38114aaf672b566e5e22e02eaae" title=" " alt="" coords="265,104,392,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="448,86,376,106,375,101,446,81"/>
+<area shape="rect" id="Node000004" href="$init__intrinfo_8c.html#ab378f0c470abbebaa9d26f793d859063" title=" " alt="" coords="108,55,205,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,70,206,70,206,65,269,65"/>
+<area shape="rect" id="Node000005" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,55,60,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,70,60,70,60,65,94,65"/>
+</map>

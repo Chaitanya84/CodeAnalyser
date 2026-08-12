@@ -1,0 +1,11 @@
+<map id="dwc_i2c_fini" name="dwc_i2c_fini">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,107,56"/>
+<area shape="rect" id="Node000002" href="$detach_8c.html#a6d2b2428a06a2b9a955ef4d6c3caa3c9" title=" " alt="" coords="155,5,287,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,33,141,28,142,33,107,38"/>
+<area shape="rect" id="Node000003" href="$i2c_2dwc_2init_8c.html#a90cc5932e689a336adb8ee7804e1e04a" title=" " alt="" coords="158,55,283,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,48,144,54,144,59,106,53"/>
+<area shape="rect" id="Node000004" href="$i2c_2dwc_2init_8c.html#aaaed337c47775898f28afcd39ec11fd4" title=" " alt="" coords="337,29,458,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="283,56,322,50,323,55,284,61"/>
+<area shape="rect" id="Node000005" href="$i2c_2dwc_2init_8c.html#aadab875fa32a043e747dde82c372a262" title=" " alt="" coords="335,79,460,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="284,73,321,78,321,84,283,78"/>
+</map>

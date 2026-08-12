@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['efi_5fallocate_5ftype_0',['efi_allocate_type',['../install_2usr_2include_2hw_2uefi_8h.html#aee5e0c5ccb7e884a287da021b444f0c6',1,'EFI_ALLOCATE_TYPE:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#aee5e0c5ccb7e884a287da021b444f0c6',1,'EFI_ALLOCATE_TYPE:&#160;uefi.h']]],
+  ['efi_5finterface_5ftype_1',['efi_interface_type',['../install_2usr_2include_2hw_2uefi_8h.html#a623b3b3bad3799f17b8ded654d7235df',1,'EFI_INTERFACE_TYPE:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#a623b3b3bad3799f17b8ded654d7235df',1,'EFI_INTERFACE_TYPE:&#160;uefi.h']]],
+  ['efi_5flocate_5fsearch_5ftype_2',['efi_locate_search_type',['../install_2usr_2include_2hw_2uefi_8h.html#abc5a8a9c636f68115cb3956d6e12e27c',1,'EFI_LOCATE_SEARCH_TYPE:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#abc5a8a9c636f68115cb3956d6e12e27c',1,'EFI_LOCATE_SEARCH_TYPE:&#160;uefi.h']]],
+  ['efi_5fmemory_5ftype_3',['efi_memory_type',['../install_2usr_2include_2hw_2uefi_8h.html#a0e2cdd0290e753cca604d3977cbe8bb9',1,'EFI_MEMORY_TYPE:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#a0e2cdd0290e753cca604d3977cbe8bb9',1,'EFI_MEMORY_TYPE:&#160;uefi.h']]],
+  ['efi_5freset_5ftype_4',['efi_reset_type',['../install_2usr_2include_2hw_2uefi_8h.html#aac10574bc0f1e0c24b051d55eb572b49',1,'EFI_RESET_TYPE:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#aac10574bc0f1e0c24b051d55eb572b49',1,'EFI_RESET_TYPE:&#160;uefi.h']]],
+  ['efi_5ftimer_5fdelay_5',['efi_timer_delay',['../install_2usr_2include_2hw_2uefi_8h.html#a813f66495f29a8738fc7be0b60076777',1,'EFI_TIMER_DELAY:&#160;uefi.h'],['../src_2hardware_2startup_2lib_2public_2hw_2uefi_8h.html#a813f66495f29a8738fc7be0b60076777',1,'EFI_TIMER_DELAY:&#160;uefi.h']]]
+];

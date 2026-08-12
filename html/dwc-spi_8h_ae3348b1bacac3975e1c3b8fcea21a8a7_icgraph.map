@@ -1,0 +1,5 @@
+<map id="dw_drvinfo" name="dw_drvinfo">
+<area shape="rect" id="Node000001" title="Get SPI driver info function." alt="" coords="123,5,217,31"/>
+<area shape="rect" id="Node000002" href="$spi_2dwc_2init_8c.html#ae928cd1fd8dabc18130cba7a1e0fa6f7" title="SPI initialization." alt="" coords="5,5,75,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,21,75,21,75,15,109,15"/>
+</map>

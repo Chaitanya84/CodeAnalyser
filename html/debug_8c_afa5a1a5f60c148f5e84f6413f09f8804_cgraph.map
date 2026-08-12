@@ -1,0 +1,11 @@
+<map id="print_syspage" name="print_syspage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,119,80"/>
+<area shape="rect" id="Node000002" href="$getopt_8c.html#aeb6330f9b4a743dc9d5de113dbdd0645" title=" " alt="" coords="222,5,286,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,52,208,27,210,32,113,57"/>
+<area shape="rect" id="Node000003" href="$install_2usr_2include_2private_2startup_2lib_2print__sysp_8c.html#a3bef206ab8dc563c58eae4212198380d" title=" " alt="" coords="172,55,336,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,65,158,65,158,70,119,70"/>
+<area shape="rect" id="Node000004" href="$install_2usr_2include_2private_2startup_2lib_2print__sysp_8c.html#a293527928ca97d47bcb196efc254adf3" title=" " alt="" coords="167,104,341,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,77,191,98,190,103,111,83"/>
+<area shape="rect" id="Node000005" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="389,104,455,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="341,114,376,114,376,119,341,119"/>
+</map>

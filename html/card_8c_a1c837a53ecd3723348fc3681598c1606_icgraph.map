@@ -1,0 +1,9 @@
+<map id="sdio_hpi" name="sdio_hpi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="380,31,456,56"/>
+<area shape="rect" id="Node000002" href="$sim__sdmmc_8c.html#a4e0b4122478e45d4cf2efedc477bd4d7" title=" " alt="" coords="217,31,332,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,46,332,46,332,41,366,41"/>
+<area shape="rect" id="Node000003" href="$sim__sdmmc_8c.html#a72c2b5c035e1c5e84073a46f1f8406ba" title=" " alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,36,169,32,170,26,204,31"/>
+<area shape="rect" id="Node000004" href="$sim__sdmmc_8c.html#a74a5d07ff73c6f8133c901a7835a357a" title=" " alt="" coords="14,55,161,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="204,55,161,61,160,55,203,50"/>
+</map>

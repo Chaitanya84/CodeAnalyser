@@ -1,0 +1,10 @@
+<map id="callout_memory_map" name="callout_memory_map">
+<area shape="rect" id="Node000001" title=" " alt="" coords="392,70,556,95"/>
+<area shape="rect" id="Node000002" href="$callout__memory__map__indirect_8c.html#a8e9964498ce9496eaf8cbbb367b30f2b" title=" " alt="" coords="180,5,344,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,69,336,48,337,43,414,64"/>
+<area shape="rect" id="Node000003" href="$gic__v3_8c.html#afc88d38114aaf672b566e5e22e02eaae" title=" " alt="" coords="5,95,132,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="379,91,133,107,132,101,378,86"/>
+<area shape="rect" id="Node000004" href="$gic__v3__its_8c.html#ab845f1d8c1466a85deec4623a7b9a721" title=" " alt="" coords="187,121,337,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="407,101,316,123,315,118,406,96"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="172,124,132,119,132,114,173,119"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/hardware/devb/sdmmc/aarch64/bcm2712.le/bs.h" name="src/hardware/devb/sdmmc/aarch64/bcm2712.le/bs.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="771,5,965,45"/>
+<area shape="rect" id="Node000002" href="$internal_8h.html" title=" " alt="" coords="771,93,965,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="871,59,871,93,865,93,865,59"/>
+<area shape="rect" id="Node000003" href="$base_8c.html" title=" " alt="" coords="5,181,200,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="757,126,507,150,212,184,201,186,200,180,212,179,507,144,757,121"/>
+<area shape="rect" id="Node000004" href="$card_8c.html" title=" " alt="" coords="224,181,419,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="758,134,431,184,420,186,419,181,430,179,757,128"/>
+<area shape="rect" id="Node000005" href="$sdhci_8c.html" title=" " alt="" coords="443,181,637,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="784,139,612,184,611,179,782,134"/>
+<area shape="rect" id="Node000006" href="$sdhci_8h.html" title=" " alt="" coords="661,181,856,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="835,144,785,183,781,179,831,140"/>
+<area shape="rect" id="Node000008" href="$mmc_8c.html" title=" " alt="" coords="880,181,1075,221"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="905,140,955,179,951,183,901,144"/>
+<area shape="rect" id="Node000009" href="$pci_8c.html" title=" " alt="" coords="1099,181,1293,221"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="954,134,1125,179,1124,184,952,139"/>
+<area shape="rect" id="Node000010" href="$sd_8c.html" title=" " alt="" coords="1317,181,1512,221"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="979,128,1306,179,1317,181,1316,186,1305,184,978,134"/>
+<area shape="rect" id="Node000011" href="$soc_8c.html" title=" " alt="" coords="1536,181,1731,221"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="979,121,1229,144,1524,179,1536,180,1535,186,1524,184,1229,150,979,126"/>
+<area shape="rect" id="Node000007" href="$bs_8c.html" title=" " alt="" coords="661,269,856,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="761,235,761,269,756,269,756,235"/>
+</map>

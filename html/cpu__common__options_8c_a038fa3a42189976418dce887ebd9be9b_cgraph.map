@@ -1,0 +1,21 @@
+<map id="cpu_handle_common_option" name="cpu_handle_common_option">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,116,213,141"/>
+<area shape="rect" id="Node000002" href="$kprintf_8c.html#ae95fefd328ef2c1827ffea1a086a49d8" title=" " alt="" coords="537,5,595,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,113,261,75,405,43,523,22,524,27,406,48,262,81,145,118"/>
+<area shape="rect" id="Node000004" href="$fdt__init__bootopt_8c.html#a87e14005401ad8dbb6a84ecbce55638c" title=" " alt="" coords="285,91,411,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,115,271,109,272,114,214,120"/>
+<area shape="rect" id="Node000007" href="$strtoul_8c.html#a6d257fc3f00865d0556ed7327c312b55" title=" " alt="" coords="534,153,598,179"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="214,134,520,160,520,165,213,140"/>
+<area shape="rect" id="Node000009" href="$hypervisor__setup_8c.html#a193e6891228cfbc9f0688f355fd6a8e3" title=" " alt="" coords="261,192,435,217"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="151,139,295,185,293,190,149,144"/>
+<area shape="rect" id="Node000003" href="$crash__done_8c.html#a511a0a42f797ecbb5e353c246cd1cca2" title=" " alt="" coords="697,5,793,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="595,15,684,15,684,21,595,21"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="373,88,482,40,523,26,525,31,484,44,376,93"/>
+<area shape="rect" id="Node000005" href="$kprintf_8c.html#a199a1f701f4cc4fd1c3ff7903a102d7a" title=" " alt="" coords="533,55,599,80"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="411,90,519,72,520,77,411,96"/>
+<area shape="rect" id="Node000006" href="$map__startup__mem_8c.html#a5300733bbd453eb14f9a046bf7b99d7e" title=" " alt="" coords="483,104,649,129"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="411,104,469,108,469,113,411,110"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="394,113,521,151,520,156,392,119"/>
+<area shape="rect" id="Node000008" href="$strtoul_8c.html#adb8fe55e3f2efdf6cd7f18112e6af702" title=" " alt="" coords="701,153,790,179"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="598,163,687,163,687,169,598,169"/>
+</map>

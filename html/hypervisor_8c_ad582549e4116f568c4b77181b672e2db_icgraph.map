@@ -1,0 +1,9 @@
+<map id="hyp_enable_el1_host" name="hyp_enable_el1_host">
+<area shape="rect" id="Node000001" title=" " alt="" coords="477,5,636,31"/>
+<area shape="rect" id="Node000002" href="$hypervisor_8c.html#a6a76fb8e6e589f64c020078761de4442" title=" " alt="" coords="275,5,429,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,21,430,21,430,15,464,15"/>
+<area shape="rect" id="Node000003" href="$hypervisor__setup_8c.html#ac73a81d4467a32c17a93389006f91816" title=" " alt="" coords="108,5,227,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,21,227,21,227,15,261,15"/>
+<area shape="rect" id="Node000004" href="$startup_2boards_2bcm_2bcm2712_2main_8c.html#ad5a52bc0401ed1bc06c779de5371d560" title=" " alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

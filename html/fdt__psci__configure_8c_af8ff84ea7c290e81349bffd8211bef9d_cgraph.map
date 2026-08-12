@@ -1,0 +1,7 @@
+<map id="fdt_psci_configure" name="fdt_psci_configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,145,56"/>
+<area shape="rect" id="Node000002" href="$install_2usr_2include_2aarch64_2psci_8h.html#a94140af7f5f5415734d458d41d0058e6" title=" " alt="" coords="195,5,274,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,30,182,24,182,29,146,35"/>
+<area shape="rect" id="Node000003" href="$install_2usr_2include_2aarch64_2psci_8h.html#a1b70a89a15f8bb0032d65d3ff0445099" title=" " alt="" coords="193,55,276,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,51,180,56,179,62,145,56"/>
+</map>

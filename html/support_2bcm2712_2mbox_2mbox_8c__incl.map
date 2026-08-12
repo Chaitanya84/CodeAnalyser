@@ -1,0 +1,17 @@
+<map id="src/hardware/support/bcm2712/mbox/mbox.c" name="src/hardware/support/bcm2712/mbox/mbox.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="266,5,445,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,108,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,48,114,92,113,87,283,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,93,203,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="311,48,209,90,207,85,309,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,93,297,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="334,48,288,86,285,82,331,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="322,93,389,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="358,46,358,79,353,79,353,46"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="413,93,484,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="380,44,426,82,422,86,376,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="508,93,576,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="401,43,503,85,501,90,399,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="600,93,663,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="422,43,588,90,586,95,421,48"/>
+</map>

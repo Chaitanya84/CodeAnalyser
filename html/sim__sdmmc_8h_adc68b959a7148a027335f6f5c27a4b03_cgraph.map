@@ -1,0 +1,7 @@
+<map id="sdmmc_bkops_cfg" name="sdmmc_bkops_cfg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,148,31"/>
+<area shape="rect" id="Node000002" href="$card_8c.html#a9a82ee90ba045ce112352c2430a1d86a" title=" " alt="" coords="196,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,15,182,15,182,21,148,21"/>
+<area shape="rect" id="Node000003" href="$mmc_8c.html#a94f0e0747d03ff5861d1627a79d1601d" title=" " alt="" coords="383,5,487,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,15,369,15,369,21,335,21"/>
+</map>

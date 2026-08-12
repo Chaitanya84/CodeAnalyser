@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['x_5fdsdt_0',['X_DSDT',['../structacpi__fadt.html#aaa1b5c773b8d1556efc5eb983a9c8dbf',1,'acpi_fadt']]],
+  ['x_5ffirmware_5fctrl_1',['X_FIRMWARE_CTRL',['../structacpi__fadt.html#a12866f709ed90761b05aeff8bb536f1d',1,'acpi_fadt']]],
+  ['x_5ffirmware_5fwaking_5fvector_2',['X_Firmware_Waking_Vector',['../structacpi__facs.html#a58bb0177867d9d920612388f064652a2',1,'acpi_facs']]],
+  ['x_5fgpe0_5fblk_3',['X_GPE0_BLK',['../structacpi__fadt.html#a5f0287e0ab87f2ceb436e84766ffae10',1,'acpi_fadt']]],
+  ['x_5fgpe1_5fblk_4',['X_GPE1_BLK',['../structacpi__fadt.html#a1758eb6f3bd02e40f8b185d146bea34a',1,'acpi_fadt']]],
+  ['x_5fpm1a_5fcnt_5fblk_5',['X_PM1a_CNT_BLK',['../structacpi__fadt.html#a03ba8bc4fbfef0a0b5362781df9529b1',1,'acpi_fadt']]],
+  ['x_5fpm1a_5fevt_5fblk_6',['X_PM1a_EVT_BLK',['../structacpi__fadt.html#af6c7195a6e8a6f694b5f1bc7722b4c90',1,'acpi_fadt']]],
+  ['x_5fpm1b_5fcnt_5fblk_7',['X_PM1b_CNT_BLK',['../structacpi__fadt.html#aa61fe8eb4ffa14d2fdacd8c3c0c3d0c6',1,'acpi_fadt']]],
+  ['x_5fpm1b_5fevt_5fblk_8',['X_PM1b_EVT_BLK',['../structacpi__fadt.html#a83bed8f0383ed83f9a8b0ca5b71338fd',1,'acpi_fadt']]],
+  ['x_5fpm2_5fcnt_5fblk_9',['X_PM2_CNT_BLK',['../structacpi__fadt.html#a6c80627cfebb97f7c7b825a0cb5a9aa6',1,'acpi_fadt']]],
+  ['x_5fpm_5ftmr_5fblk_10',['X_PM_TMR_BLK',['../structacpi__fadt.html#ad9f35c92e55bc55ce78d296f37b459cc',1,'acpi_fadt']]],
+  ['xflags_11',['xflags',['../struct__xpt.html#a26d919e0e0fc38048d0317576f69f9c2',1,'_xpt']]],
+  ['xlen_12',['xlen',['../structdwc__dev__t.html#a67b11c6d6da6180f96e5b0203de16449',1,'dwc_dev_t::xlen'],['../structdw__spi__t.html#a5cf14dfe1a7b8b8bd03f647f3e66844c',1,'dw_spi_t::xlen']]],
+  ['xpt_5fccb_5flist_13',['xpt_ccb_list',['../struct__xpt.html#a46f226bb212106f9872a3cd348e01e15',1,'_xpt']]],
+  ['xpt_5flast_5fpath_14',['xpt_last_path',['../struct__xpt.html#a53213d71c4b7b5438385277128aea24f',1,'_xpt']]],
+  ['xpt_5fmax_5fccb_15',['xpt_max_ccb',['../struct__xpt.html#a0051d468b3368e79dc0bab7fd7392dc4',1,'_xpt']]],
+  ['xpt_5fmax_5fedt_16',['xpt_max_edt',['../struct__xpt.html#aa4810d3bb01ed2fe2d0f15b352c5f6aa',1,'_xpt']]],
+  ['xpt_5fmax_5fpath_17',['xpt_max_path',['../struct__xpt.html#a098e03166b15567299bfb0fd0ed15dc7',1,'_xpt']]],
+  ['xsdt_18',['xsdt',['../unionacpi__generic__u.html#a7bbbb80f86cd16af7515d8577857d1ee',1,'acpi_generic_u']]],
+  ['xsdtaddress_19',['XsdtAddress',['../structacpi__rsdp2__0.html#ae540f244f7d98bb16d1f6e5d841ad0b1',1,'acpi_rsdp2_0']]],
+  ['xtime_5fus_20',['xtime_us',['../structdw__spi__t.html#a45ad69fc846cc5afc72a3e3a956e8d2f',1,'dw_spi_t']]]
+];

@@ -1,0 +1,9 @@
+<map id="src/hardware/startup/lib/aarch64/board_find_efi_smbios.c" name="src/hardware/startup/lib/aarch64/board_find_efi_smbios.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="92,5,263,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,85,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,62,76,103,73,98,136,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="110,108,245,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,60,180,94,175,94,175,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="269,108,350,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,58,281,98,278,103,216,62"/>
+</map>

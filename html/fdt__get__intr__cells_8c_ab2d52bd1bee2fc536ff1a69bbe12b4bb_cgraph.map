@@ -1,0 +1,8 @@
+<map id="fdt_get_intr_cells" name="fdt_get_intr_cells">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,140,56"/>
+<area shape="rect" id="Node000002" href="$fdt__get__int_8c.html#a9e17ea936c644ebc8a736e8c7d39e73e" title=" " alt="" coords="188,5,280,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,30,174,25,175,30,141,35"/>
+<area shape="rect" id="Node000003" href="$fdt__get__u32_8c.html#afa7bb2207163546cd48c13cf614768fc" title=" " alt="" coords="328,31,427,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="140,41,314,41,314,46,140,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="281,23,315,30,314,35,280,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="_sdio_connect_parm" name="_sdio_connect_parm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,93,229,119"/>
+<area shape="rect" id="Node000002" href="$struct__sdio__device__ident.html" title=" " alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,39,144,91,140,95,95,43"/>
+<area shape="rect" id="Node000003" href="$struct__sdio__funcs.html" title=" " alt="" coords="176,5,275,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,43,164,95,160,91,205,39"/>
+</map>

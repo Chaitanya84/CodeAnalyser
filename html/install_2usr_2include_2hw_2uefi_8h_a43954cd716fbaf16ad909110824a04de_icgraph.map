@@ -1,0 +1,7 @@
+<map id="uefi_exit_init" name="uefi_exit_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,31,253,56"/>
+<area shape="rect" id="Node000002" href="$uefi__init_8c.html#aa7ac33360b776de66679f164de5bb703" title="Configure the global UEFI service pointers." alt="" coords="15,5,89,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,35,89,27,90,22,134,29"/>
+<area shape="rect" id="Node000003" href="$uefi__io_8c.html#a4d301d5bb9cdca50a1e0ae27320d0581" title=" " alt="" coords="5,55,99,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,57,99,62,98,57,133,52"/>
+</map>

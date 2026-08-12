@@ -1,0 +1,6 @@
+<map id="ccb_setdev" name="ccb_setdev">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,93,101,119"/>
+<area shape="rect" id="Node000002" href="$structccb__header.html" title=" " alt="" coords="5,5,101,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,45,56,93,51,93,51,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="116,9,128,18,120,26,102,29,101,23,117,21,123,18,114,14"/>
+</map>
